@@ -1,0 +1,1 @@
+Astrid Leapol is the captain of the lazy beaver, a barge that goes from [[Afeer]] to [[Port Dalia]]. French accented woman.

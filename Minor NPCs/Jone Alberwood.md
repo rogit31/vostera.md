@@ -1,0 +1,1 @@
+Woman who was kidnapped by [[Cheetoh's Angels]] on their mission in [[Titanfall]]. Mother of [[John Alberwood]]. 

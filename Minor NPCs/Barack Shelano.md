@@ -1,0 +1,1 @@
+Barack Shelano is a stout halfling man with a strong red beard. He is the main point of contact in between [[Hemlock]] and the [[Underbelly]].

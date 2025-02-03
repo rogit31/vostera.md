@@ -1,0 +1,1 @@
+Denomination for citizens of the [[Ashir Empire]]. 

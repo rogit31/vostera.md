@@ -1,0 +1,1 @@
+Spellweavers are humanoids capable of casting spells. According to the [[Ashir Empire]]'s census data, about 1/10 [[Ashirians]] are capable of casting cantrip-level spells, and only 1/100 are capable of casting spells of the like of [[Fireball]]. 

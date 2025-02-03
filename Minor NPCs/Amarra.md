@@ -1,0 +1,1 @@
+Amarra is the head priestess of [[Vero]]'s church in [[Avendor]]. She gave Hemlock an introduction to more of Vero's concepts and gave him a black cube and a handkerchief to cover it with and practice his telepathic skills with.

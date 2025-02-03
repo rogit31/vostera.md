@@ -1,0 +1,1 @@
+Gerald was the bartender at the [[Soft Spot]]  and an ex-member of the [[Underbelly]]. He is a tall slightly chubby human man with a receding hairline of brownish hair and plenty of stories to tell.

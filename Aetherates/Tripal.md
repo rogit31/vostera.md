@@ -1,0 +1,2 @@
+Tripal is an arcane material that is found naturally as shards or larger crystals. They have a distinct deep purple color.
+Tripal is found usually on [[Eloran]]. It is rumored that all Tripal comes from a singular titan in Eloran, located at the epicenter of [[Titanfall]], buried deep within the crater. Tripal seems to conduct arcane energy from one place to another at great speeds. The transport of [[aether]] requires two pieces of Tripal to be calibrated with each other in frequency. This calibration can be made by an accomplished spellcaster.

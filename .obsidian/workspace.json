@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "2cb99b24362c08ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "e297dfcc387c858d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c9bddde5d292d75",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28f3170241152f97",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4ebaa1eda17bad3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8664be3b05a00ab2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "19898f105f37a3ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4d5b62f75141441c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "right": {
+    "id": "75e5f22fa965161f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c52f4412a629871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aced6b4b549644d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vixal Blund.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vixal Blund"
+            }
+          },
+          {
+            "id": "3cd3622a55bd1ee5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6648c12df3664093",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "43e12dba729ea0b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4c9bddde5d292d75",
+  "lastOpenFiles": [
+    "Vixal Blund.md",
+    "Pasted image 20250125131421.png",
+    "Vespera Argent.md",
+    "Ashirian Pantheon/Vero.md",
+    "Aetherates/Tripal.md",
+    "Titanic Wars.md",
+    "Titanfall Research Facility.md",
+    "Titanfall.md",
+    "Thousand Year Winter.md",
+    "The Whisper.md",
+    "Underbelly.md",
+    "Titans.md",
+    "Soft Spot.md",
+    "The Planewalker.md",
+    "The Drain.md",
+    "Minor NPCs/Devumal Twins.md",
+    "Peacekeepers.md",
+    "Pasted image 20250125124702.png",
+    "Order of the Black Sun.md",
+    "One Year War.md",
+    "Minor NPCs/Terry Dodson.md",
+    "Tepurg.md",
+    "Solist Church.md",
+    "Sola's Council.md",
+    "Ashirian Pantheon/Sola.md",
+    "Silver Moon Church.md",
+    "Minor NPCs/Roshan Hunfrid.md",
+    "Minor NPCs",
+    "Ashirian Pantheon",
+    "Ashirian Pantheon/ashirian_pantheon.png",
+    "Untitled.canvas",
+    "Aetherates",
+    "Aetherates"
+  ]
+}

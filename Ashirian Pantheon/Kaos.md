@@ -1,0 +1,1 @@
+Kaos is the primordial god of existence, the cosmos, eternity and uncertainty. As the first and only thing to exist before time itself, he created the cosmos as we know it. To fill the void, he created the universe and the stars. Nowadays represented by a simple circle, Kaos as a primordial god is known by all but followed by a few cultists.

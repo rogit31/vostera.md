@@ -1,0 +1,1 @@
+The church of [[Sola]]. Ideals of justice, grand marble white churches and a surprising amount of bureaucracy.

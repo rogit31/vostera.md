@@ -1,0 +1,1 @@
+The titanic wars were the wars fought by [[titans]] during the titanic era for [[Sola]]'s light. This brought on the [[Thousand Year Winter]].

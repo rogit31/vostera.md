@@ -133,3 +133,4 @@ Disparities in economic prosperity among fiefdoms create social inequalities. Th
 ---
 
 The most commonly spoken languages in Aegur are Aegurian (70%), Tabaxi (15%), Orc (15%), Ashirian (15%), Elvish (10%), Golbin (10%), and Giant (10%).
+

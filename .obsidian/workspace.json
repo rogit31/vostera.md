@@ -11,10 +11,14 @@
             "id": "4c9bddde5d292d75",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Vespera Argent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vespera Argent"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -89,10 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vixal Blund.md"
+                "file": "Vespera Argent.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vixal Blund"
+              "title": "Outline of Vespera Argent"
             }
           },
           {
@@ -101,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vespera Argent.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Vespera Argent"
             }
           },
           {
@@ -139,8 +148,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,22 +164,65 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "ee884bde9da4e62c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "554dcb933b17a5b8",
+        "type": "window",
+        "children": [
+          {
+            "id": "b9a32c825188a1b8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "65d840e1de1e5b6a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The Planewalker.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Planewalker"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1456,
+        "y": 317,
+        "width": 1372,
+        "height": 992,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "4c9bddde5d292d75",
   "lastOpenFiles": [
+    "The Planewalker.md",
+    "Vespera Argent.md",
+    "Session Planning.md",
+    "Aegur.md",
+    "Untitled.md",
+    "Adenville.md",
+    "The Whisper.md",
     "Vixal Blund.md",
     "Pasted image 20250125131421.png",
-    "Vespera Argent.md",
     "Ashirian Pantheon/Vero.md",
     "Aetherates/Tripal.md",
     "Titanic Wars.md",
     "Titanfall Research Facility.md",
     "Titanfall.md",
     "Thousand Year Winter.md",
-    "The Whisper.md",
     "Underbelly.md",
     "Titans.md",
     "Soft Spot.md",
-    "The Planewalker.md",
     "The Drain.md",
     "Minor NPCs/Devumal Twins.md",
     "Peacekeepers.md",
@@ -182,9 +233,6 @@
     "Tepurg.md",
     "Solist Church.md",
     "Sola's Council.md",
-    "Ashirian Pantheon/Sola.md",
-    "Silver Moon Church.md",
-    "Minor NPCs/Roshan Hunfrid.md",
     "Minor NPCs",
     "Ashirian Pantheon",
     "Ashirian Pantheon/ashirian_pantheon.png",

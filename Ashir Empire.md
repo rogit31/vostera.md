@@ -32,7 +32,7 @@ The Emperor is responsible for overseeing the overall governance of the empire a
 The terms for emperors are limitless, and the position is inherited by blood as dictated by the [[Phoenix's Bloodright]]. 
 
 ### Consul
-The consul, or head of the senate, is voted in by a majority vote of the senate every ten years. Consuls acts as high-ranking officials. They lead government in the emperor's absence or death, oversee administration, and have the power to dissolve the senate and reform it once during their term. The consul is also effectively the ultimate juror, and appoints new members of Sola's court. They are also generally in charge of military operations during war time though this is generally a cooperative process with the emperor and senate. 
+The consul, or head of the senate, is voted in by a majority vote of the senate every ten years. Consuls acts as high-ranking officials. They lead government in the emperor's absence or death, oversee administration, and have the power to dissolve the senate and reform it once during their term. The consul is also effectively the ultimate juror, and appoints new members of Sola's court. They are also in charge of military operations during war time though this is generally a cooperative process with the emperor and senate. 
 
 ## Economy
 ---

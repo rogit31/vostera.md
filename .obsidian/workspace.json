@@ -94,13 +94,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vespera Argent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vespera Argent"
+              "title": "Outline"
             }
           },
           {
@@ -189,21 +188,34 @@
                   "icon": "lucide-file",
                   "title": "The Planewalker"
                 }
+              },
+              {
+                "id": "cfe9ac36733c66ce",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.8.7"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.8.7"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
         "x": -1456,
         "y": 316,
         "width": 1024,
-        "height": 804,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "4c9bddde5d292d75",
+  "active": "cfe9ac36733c66ce",
   "lastOpenFiles": [
     "The Planewalker.md",
     "Vespera Argent.md",

@@ -1,0 +1,1 @@
+Older, fashionable dwarven man, professor at the [[Academy Arcanum]] in [[Avendor]], creator of the anti-magical bracers present at the speech of the inauguration ceremony at the emperor's palace. Very favorable towards [[Meg]], as she rolled a nat 20 on a persuasion check when first meeting him, and made his coffee just like he liked it, with a squeeze of lemon juice. 

@@ -9,8 +9,13 @@
 # Potential scenes
 
  - Hemlock hallucinates/dreams of the old world maybe?
- - Mention changes to blackguard glaive
- - Daniel's character and how he will fit within the story, who knows about that
+ - Sylril dreams of Mila again
+ - Players go to try and rescue Khava from where she is kept in the clarit hill residences, near the fancy scarab.
+ - They attempt to carry her all the way to Onarx? And have the rest of the band regroup there? 
+ - OR they go directly towards Aegur and the wildlands. Elwyn's teleportation circle is in the basement of an old underbelly parlor, the rusty drop. 
+ - They can also attempt to steal and/or buy a scroll containing the teleport spell.
+ - Spell scrolls follow this formula to determine price:$$ f\left(x\right)\ =\ \ 35\cdot\ x^{2}\ +\ 30$$
+ - What awaits them in the Aegurian wildlands if they manage to go there directly, and what awaits them if they use the teleportation circle Elwyn gave them? 
 
 # Larger unanswered questions
 

@@ -5,3 +5,5 @@ She is a firm believer in the fact that there was an intelligent and advanced hu
 Khava is in charge of handling items to be traded or bought, packaging them and giving them an approximate value for sale as well as for the grand theft-off.
 
 Khava is supposedly involved in a romantic relationship with [[Leia Rosenthorne]].
+
+Currently at the residing in the [[Clarit Hill Residences]], near a store called the [[Fancy Scarab]].

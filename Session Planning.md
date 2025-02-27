@@ -8,8 +8,8 @@
 
 # Potential scenes
 
- - They're still in the bubble dimension so they should explore that and see what's there, maybe give them a clue to what it is, i.e. Aylin's bubble.
  - Hemlock hallucinates/dreams of the old world maybe?
+ - Mention changes to blackguard glaive
  - Daniel's character and how he will fit within the story, who knows about that
 
 # Larger unanswered questions
@@ -24,7 +24,6 @@
 - Go into more detail about the Aylin's children's upbringing, I think this will unlock a lot of the story paths for Zeke and Vespera. 
 - Also, realistically over 800 years what would've the two immortal children have done.
 - Rethink the pheonixgate thing. 
-- Vespera's statsheet
 - Lucius's green liquid stat sheet
 - Lucina's statsheet
 - Vixal's statsheet

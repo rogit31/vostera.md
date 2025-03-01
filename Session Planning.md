@@ -16,6 +16,9 @@
  - They can also attempt to steal and/or buy a scroll containing the teleport spell.
  - Spell scrolls follow this formula to determine price:$$ f\left(x\right)\ =\ \ 35\cdot\ x^{2}\ +\ 30$$
  - What awaits them in the Aegurian wildlands if they manage to go there directly, and what awaits them if they use the teleportation circle Elwyn gave them? 
+ - Some outpost in the Aegurian wildlands that is basically a pokemon/monster hunter table gambling center rewarding hunters that come back with good stuff. Also life insurance to adventurers.
+ - A whole ass biome
+ - Random encounter table? But maybe modified to be only rewards for under a certain number to signify their current strength
 
 # Larger unanswered questions
 

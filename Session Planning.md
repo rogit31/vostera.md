@@ -20,6 +20,13 @@
  - A whole ass biome
  - Random encounter table? But maybe modified to be only rewards for under a certain number to signify their current strength
 
+## Sylril's dream
+
+- Boiling blood pouring out of gaping wound where her right breast should be
+- Left parents behind, went to Sola's church, got frustrated and abandoned them. 
+- You couldn't handle a bit of bureaucracy, what makes you think you can handle me?
+- Last time, I asked you what you are living for. But maybe I asked you the wrong question, for I do not care whether you live or die. What are you willing to bleed for?
+
 # Larger unanswered questions
 
 - What do Vespera and Zeke know about Aylin's history, the old world and the current one?

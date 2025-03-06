@@ -64,7 +64,7 @@ saves:
 
 damage_resistances: damage from spells;
 damage_immunities: psychic damage (from mind blank)
-condition_immunities: "charmed, slept, paralyzed, polymorphed"
+condition_immunities: "charmed, slept, paralyzed, polymorphed, feared"
 senses: truesight 60ft., passive Perception 20
 legendary_description: "Vespera is a legendary creature."
 bestiary: true

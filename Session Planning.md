@@ -1,24 +1,17 @@
-# Things to think of
-
-- How can we bring player ties back into the narrative? I.e,
+# Player ties
 - Hemlock's mother
 - Meg's brother
-- Bor's... horse?
+- Borse comes back one day
 - Sylril and Mila 
 
 # Potential scenes
 
- - Hemlock hallucinates/dreams of the old world maybe?
+ - Hemlock hallucinates/dreams of the old world 
  - Sylril dreams of Mila again
- - Players go to try and rescue Khava from where she is kept in the clarit hill residences, near the fancy scarab.
- - They attempt to carry her all the way to Onarx? And have the rest of the band regroup there? 
- - OR they go directly towards Aegur and the wildlands. Elwyn's teleportation circle is in the basement of an old underbelly parlor, the rusty drop. 
- - They can also attempt to steal and/or buy a scroll containing the teleport spell.
- - Spell scrolls follow this formula to determine price:$$ f\left(x\right)\ =\ \ 35\cdot\ x^{2}\ +\ 30$$
- - What awaits them in the Aegurian wildlands if they manage to go there directly, and what awaits them if they use the teleportation circle Elwyn gave them? 
- - Some outpost in the Aegurian wildlands that is basically a pokemon/monster hunter table gambling center rewarding hunters that come back with good stuff. Also life insurance to adventurers.
- - A whole ass biome
- - Random encounter table? But maybe modified to be only rewards for under a certain number to signify their current strength
+ - Arrival to the [[Last Respite]]
+ - Information gathering, explaining the game, encountering a significant other party
+ - Pepper story and rp moments throughout the travelling somehow
+ - They're looking for a red dragon, so make it a chase for the adult red dragon somehow
 
 ## Sylril's dream
 
@@ -36,14 +29,18 @@
 - Who knows the academy's actual goals? 
 
 # TODO
+
 - Go into more detail about the Aylin's children's upbringing, I think this will unlock a lot of the story paths for Zeke and Vespera. 
+- Finish the playlists, add theme songs for vespera, the order, maybe some others.
+- Make some weathered paper and write a letter from Meg's brother magnus
+- Buy a better marker and try map-fuing 
+- Or figure out another solution for making the map look good
 - Also, realistically over 800 years what would've the two immortal children have done.
 - Rethink the pheonixgate thing. 
 - Lucius's green liquid stat sheet
 - Lucina's statsheet
 - Vixal's statsheet
 - Complete article about aether
-- Meet up with Daniel to do his character
 - Robes of dexterity
 - Cape of cold resistance
 - Borse is cursed , learning to read,  and write, intro to magic, intro to potions and other alchemical, draconic a feather
@@ -51,3 +48,8 @@
 - Travis (cocky fake knife guy, tried to punch dorbledumb)
 - Wyvern's feet and his shopkeep i forgot the name of
 - Green goblin waiting for them at the Last Respite, multicolor armor, metal opening/voice 
+
+# Remember
+- Highlight the interactibles (3 things)
+- Use music and ambience 
+- Embody the character

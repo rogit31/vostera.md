@@ -41,12 +41,7 @@
 - Lucina's statsheet
 - Vixal's statsheet
 - Complete article about aether
-- Robes of dexterity
-- Cape of cold resistance
 - Borse is cursed , learning to read,  and write, intro to magic, intro to potions and other alchemical, draconic a feather
-- Tobias (hunter's guild bright -eyed)
-- Travis (cocky fake knife guy, tried to punch dorbledumb)
-- Wyvern's feet and his shopkeep i forgot the name of
 - Green goblin waiting for them at the Last Respite, multicolor armor, metal opening/voice 
 
 # Remember

@@ -34,14 +34,11 @@
 - Finish the playlists, add theme songs for vespera, the order, maybe some others.
 - Make some weathered paper and write a letter from Meg's brother magnus
 - Buy a better marker and try map-fuing 
-- Or figure out another solution for making the map look good
 - Also, realistically over 800 years what would've the two immortal children have done.
 - Rethink the pheonixgate thing. 
-- Lucius's green liquid stat sheet
 - Lucina's statsheet
 - Vixal's statsheet
 - Complete article about aether
-- Borse is cursed , learning to read,  and write, intro to magic, intro to potions and other alchemical, draconic a feather
 - Green goblin waiting for them at the Last Respite, multicolor armor, metal opening/voice 
 
 # Remember

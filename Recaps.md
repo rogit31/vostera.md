@@ -176,7 +176,7 @@ You also came into contact with [[Adam Fawcett]], the head of the silver moon ch
 
 Meanwhile, Vannan started having some visions of spiders. Wanting to know more about the demise of the Aemon family, you snuck back into the ashy city. You cashed out your cheque, got hit on by the banker and headed out to do a bit of grave robbing. With the graves of the Aemon family unearthed, you learned the culprit of the fire that killed Lucina’s parents was Leucis, Lucina’s own brother. You took some time to absorb this information as you explored the Aemon home.
 
-We had to cut the session off, so we time-skipped a bit to the next night. That night, Vannan decided his fate in front of The Fateweaver. He decided to go down fighting, and challenged Lua’s champion. He failed in the end, and took one last dip into the void before disappearing and leaving behind Lua’s Edge with a message for all of you, “Praise Lua”.
+We had to cut the session off, so we time-skipped a bit to the next night. That night, [[Vannan]] decided his fate in front of The Fateweaver. He decided to go down fighting, and challenged Lua’s champion. He failed in the end, and took one last dip into the void before disappearing and leaving behind Lua’s Edge with a message for all of you, “Praise Lua”.
 
 ## November 26th
 

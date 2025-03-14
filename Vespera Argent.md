@@ -62,9 +62,9 @@ saves:
   - wisdom: 10
   - charisma: 10
 
-damage_resistances: damage from spells;
+damage_resistances: Poison damage
 damage_immunities: psychic damage (from mind blank)
-condition_immunities: "charmed, slept, paralyzed, polymorphed, feared"
+condition_immunities: "charmed, slept, paralyzed, polymorphed, feared, flanked"
 senses: truesight 60ft., passive Perception 20
 legendary_description: "Vespera is a legendary creature."
 bestiary: true

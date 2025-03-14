@@ -1,3 +1,6 @@
+# Announcements
+- No throwing potions : )
+- 
 # Player ties
 - Hemlock's mother
 - Meg's brother

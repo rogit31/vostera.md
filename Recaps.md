@@ -1,8 +1,6 @@
 ## March 5th
 
-- Robes of dexterity done for Daniel
-- Cape of cold resistance
-- Did you add the liselos injectable? 
+- ring of elemental resistance
 
 You woke up in stables filled with hay and the smell of Bor's freinds' baking, as you planned out your moves for the next few days. You decided that you would see what Khava was up to, and make a plan on the go, seeing what Khava wanted to to about her current captivity. You headed over to the Fancy Scarab, easily enough found the room where she was being held, before flying into her room, and trying to convince her to come with you. She did not remember who [[Leia Rosenthorne]] was, and could not remember any of you either. It became clear to you that she was subject to the same spell that you were, and decided that the way out of this was to force her. After some unfortunate rolls from Meg, she cried out to the guards, which was immediately saved by a ANOTHER natural 20, deceiving the guards and Khava as well. Bor came to the rescue of this situation to try and extract her herself through different means, as a flying bat. You waited for the right moment, noticed a pendant around her neck made of tripal, assumed that it was related to her memory, and cast a spell, that went right through the pendant and immediately alerted [[Vespera Argent]] on the other end of the line. 
 

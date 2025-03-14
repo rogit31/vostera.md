@@ -30,6 +30,9 @@
 
 # TODO
 
+- ring of elemental resistance
+- Bitey companion page
+- Green dragon sac powder
 - Go into more detail about the Aylin's children's upbringing, I think this will unlock a lot of the story paths for Zeke and Vespera. 
 - Finish the playlists, add theme songs for vespera, the order, maybe some others.
 - Make some weathered paper and write a letter from Meg's brother magnus

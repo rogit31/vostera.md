@@ -10,18 +10,17 @@
 # Potential scenes
 
  - Hemlock hallucinates/dreams of the old world 
- - Sylril dreams of Mila again
- - Arrival to the [[Last Respite]]
  - Information gathering, explaining the game, encountering a significant other party
  - Pepper story and rp moments throughout the travelling somehow
  - They're looking for a red dragon, so make it a chase for the adult red dragon somehow
 
-## Sylril's dream
-
-- Boiling blood pouring out of gaping wound where her right breast should be
-- Left parents behind, went to Sola's church, got frustrated and abandoned them. 
-- You couldn't handle a bit of bureaucracy, what makes you think you can handle me?
-- Last time, I asked you what you are living for. But maybe I asked you the wrong question, for I do not care whether you live or die. What are you willing to bleed for?
+## Hemlock's dream 
+ - EYE
+ - Flapping of flags, dry cold imari wind. The sound of a leather tent opening and closing. 
+ - A familiar elven face with gray hair walks through 
+ - There's a silence as the other sergeants in the tent cut the small talk
+ - 
+"Imari forces have started digging into their trenches and reinforced their position over the hilly southern side of Ardora's Tower. Their height advantage proximity to fort goria has made it difficult for us to advance any further into their territory without losing a significant amount of men. "
 
 # Larger unanswered questions
 

@@ -1,0 +1,1 @@
+The last dragonrider is a rumored figure of the [[Aegurian Wildlands]]. He has supposedly been seen riding an ancient red dragon. An elf druid who is also the only living creature to have survived the 

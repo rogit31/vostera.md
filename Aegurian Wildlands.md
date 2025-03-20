@@ -118,6 +118,30 @@ Encounter on a 10 or lower directly generate gold, as they are so easy they don'
 ## Red
 ### Encounter table
 
+| **d20 Roll** | **Encounter**                                             | **CR** | Gold Reward |
+| ------------ | --------------------------------------------------------- | ------ | ----------- |
+| 1            | 1d4 **Giant Wasps** buzzing angrily near a hive           | 1/2    | 50          |
+| 2            | A lone **Giant Constrictor Snake** in an overgrown temple | 2      | 70          |
+| 3            | 1d4 **Ghasts** feasting in a sunken crypt                 | 2      | 75          |
+| 4            | 1d4 **Will-o'-Wisps** luring through a foggy swamp        | 3      | 90          |
+| 5            | **Basilisk** basking on sunlit ruins                      | 3      | 100         |
+| 6            | 1d4 Juvenile Uragaan                                      | 4      | 140         |
+| 7            | **Otyugh** lurking in a pile of refuse                    | 5      | 160         |
+| 8            | Cenatar + Carapaceons                                     | 12     |             |
+| 9            | Kirin (buffed)                                            | 13     |             |
+| 10           | Lavasioth (if appropriate environment - lava)             | 13     |             |
+| 11           |                                                           | 14     |             |
+| 12           |                                                           |        |             |
+| 13           |                                                           |        |             |
+| 14           | Lagiacrus (if ae - water)                                 | 14     |             |
+| 15           | Barioth                                                   | 15     |             |
+| 16           | Gravios                                                   | 15     |             |
+| 17           |                                                           | 12     |             |
+| 18           |                                                           | 12     |             |
+| 19           |                                                           | 13     |             |
+| 20           | Amatsu (elder)                                            | 17     |             |
+
+
 ### Rewards
 
 ![[Pasted image 20250311194054.jpg]]

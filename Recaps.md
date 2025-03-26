@@ -1,3 +1,28 @@
+## March 19th
+
+We started with you guys back in the last respite to cash in on your reward and recharge before you continued on your trip. You got your reward, chatted a bit more with some members, and went to rest. Hemlock had a dream where he relived some war trauma through his connection with Vero. You guys left, quickly speeding through zone 0 to arrive to death's door. On your way, you were already figuring some new stuff out related to the biology of the area. You noticed that the water in the sea was of a slight green coloration, and it wasn't just aesthetic. You quickly figured out that small trace amounts of liselos were present in the waters here, and that casting magic was slightly easier here than anywhere else in the world you had experienced. You decided to panhandle a small amount of liselos from the sea, which you successfully got a small amount of powdered liselos. As you got to death's door, you met with another party of adventurers that claimed to be hunters from the [[Geldan Dynasty]]. [[Hemlock]] could tell they were hiding something from you, though you weren't totally sure exactly what. While you where around the campfire conversing about a variety of things, a little fire coughing salamander walked up to your campfire. Your new friends let you know they were called sootbellies, a type of small burrowing cold-blooded wyvern that coughs fire onto itself to keep itself warm. Kite had some insight that they might've had some information about her little brother. During the night, Kite intimidated the halfling on their party to cough up what he knew. He explained that he was a researcher form the dynasty, and they heard of some disappearances that sounded like what had happened to Kite's brother, but did not have specific information about his brother or situation. He explained that he was being guarded, in anticipation of the same thing happening to him. You parted ways without exchanging much more information, and adopted the sootbelly into your party of companions. You left off, and as you left, you inspected the bridge, and Dorbledum questioned the age of this structure, potentially being older than the birth of the planewalker and Vostera itself. You then encountered one of the most feared Wyverns of all the wildlands, the bazelgeuse, which you promptly avoided.  You continued onto your journey, crossing zone 2, where you met a water fox wyvern, which you slayed without too much issue, granting you the materials for the dart gun related to it. Sylril absorbed the blood of the slain wyvern, granting him a new spell. Dorbledum experimented even further, getting him some more ideas on how to ulitize the liselos powder and how to potentially stabilize it. And that's more or less where we left off. 
+### Sootbelly wyverns 
+
+Small, burrowing, fire-warming reptiles that survive in cooler nights and climates by exhaling small controlled bursts of heat onto its surroundings. It's an ambush hunter, that feeds mostly on insects and small animals, and relies on burrowing and camouflage to avoid predators. 
+
+### Consuming smite
+If sylril is granted the final blow onto a creature, he unlocks consuming smite. 
+### Geldanic Researchers
+
+A group of three people, two human and one halfling. 
+- Laksman Dehade, a human man with a scar over his mouth and cheek muscular build, brown curly hair. 
+- Isha Potdar, a human woman with an equally muscular build and a battleaxe at her side with her hair tied in braids at both side of her head. Similarly brown hair big nose.
+- Amit Jaykar, a halfling man with glasses and clearly bookish. bald with big beady eyes. 
+They lie to the party about being hunters, when they are escorting Amit to make observations about the land and report back to the Geldanic Dynsasty. Their previous reseachers came with escorts but never came back, and there's rumors that it's not just monsters. 
+
+### Liselos infused biology
+- The party notices an odd green tint to the rivers and oceans, rain or other environmental elements
+- They can also potentially notice that their spells are slightly stronger than usual, though not by a mechanical amount 
+
+
+Hemlock's dream
+Slayed the water fox Wyvern
+
 
 ## March 12th
 

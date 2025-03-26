@@ -115,8 +115,8 @@ Encounter on a 10 or lower directly generate gold, as they are so easy they don'
 | 3           | Espinas Spiked shortbow - 1d6 + 1 piercing - If the target is poisoned or blighted, your crit range is increased by 1 and deal an extra 1d6 poison damage.                                                                                                                                                                                                                                                              | Banbaro Horn Longbow - (You ignore AC bonuses from cover. On hit, reduce walking speed of the creature by 10ft. On a crit, the target is grappled until the end of your next turn.) *Exceptionally built*: 1d8 +1                                                                             | Monoblos Carapace Flail - (On crit, you knock the target prone, deal an extra 6 points of thunder damage to your target and deafen it.) *Exceptionally built*: (1d8 + 1)                                                                            | Galvenus Charge Shield - (1/day as a free action, you can prime your shield. The next time a melee attack is attempted against you, you deal 4d10 Fire damage in a 30 ft. cone in the direction of the attack). +3 AC                                      | Bazelgeuse Charged Maul - (2d6+1) Slashing - (1/day) You can cause the scales covering the greataxe to all explode at once. Anything in a 30 ft. radius, including yourself, must make a DC 20 DEX saving throw, or take 18 (6d6) fire damage and 14 (2d12 + 2) force damage and to be knocked prone. Half damage on success. You must declare using this effect before attacking, and critical strikes amplify this effect. |
 | 4           | Blight Bomb - 5 charges - Thrown, 60ft., 30 ft. radius - Creatures in the area must make a DC 17 DEX saving throw, taking 20 (4d8) fire damage and 20 (4d8) poison damage, and applying the poisoned condition for one minute. On a success, half damage and no status effects. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect and becoming immune to it for a day. | Banbaro Hoof Super Heavy Warhammer - (Your crit range is increased by 1. On a crit, assume maximum damage for this weapon and you deal an additional 12 points of damage in a 10 foot radius centered on your attack. Your walking speed is slowed by 10 feet while this weapon is equipped.) | Monoblos Gland Thunderclap - 5 Charges - (Thrown, 60 ft range, 30ft radius. Any target in the area must make a DC 20 DEX save or take 10d6 thunder damage, be knocked prone and deafened. Half damage on save.)                                     | Galvenus LongSword - *Masterfully built*: +2 (This weapon deals an additional 1d6 fire damage on hit. On crit, deal an extra 6 points of force damage and 6 points of fire damage in a 10 foot radius, including to yourself.) 1d8 + 2 slashing, 1d6 fire. | Bazelgeuse Super Heavy Crossbow - (1d10 + 1) piercing - (1/day) The bolt detonates , forcing creatures in a 15ft cone behind the target to make a DC 18 DEX save, or take 12 (4d6) fire damage and 6 (2d6) force damage and obscuring the area with smoke for one turn. When reducing a creature to 0 hit points with this weapon, the bolt pierces them, and any enemy behind them also takes damage.                       |
 
-## Red
-### Encounter table
+### Red
+#### Encounter table
 
 | **d20 Roll** | **Encounter**                                             | **CR** | Gold Reward |
 | ------------ | --------------------------------------------------------- | ------ | ----------- |
@@ -140,8 +140,16 @@ Encounter on a 10 or lower directly generate gold, as they are so easy they don'
 | 18           |                                                           | 12     |             |
 | 19           |                                                           | 13     |             |
 | 20           | Amatsu (elder)                                            | 17     |             |
+#### Rewards
+
+| **d4 Roll** | Espinas | **Banbaro** | **Monoblos** | **Galvenus** | Bazelgeuse                                                                                                                                                |
+| ----------- | ------- | ----------- | ------------ | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1           |         |             |              |              | Anytime you succeed a saving throw by more than 5, you are completely unaffected by the spell. If you fail with a natural 1, you take double the damage.  |
+| 2           |         |             |              |              |                                                                                                                                                           |
+| 3           |         |             |              |              |                                                                                                                                                           |
+| 4           |         |             |              |              |                                                                                                                                                           |
 
 
-### Rewards
+#### Rewards
 
 ![[Pasted image 20250311194054.jpg]]

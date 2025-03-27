@@ -1,7 +1,7 @@
 # Announcements
 - Decide on whether or not they want revive
 - Water Fox Wyvern Goop
-- 
+- REVIVFY IS BANNED 
 
 
 # Player ties
@@ -26,11 +26,11 @@
 - They encounter them maybe in a week or so? 
 
 # Phineas' Letter
-Hi Kite! Isn't this new spell so cool? It traces the aetheric signature of someone you know, kind of like a beast would hunt with its scent of smell! Hopefully the beasts leave it alone and it does manage to get to you. I sent this to you on Monday the 23d, so let me know next time we see each other when it got to you. I still haven't figure out a name... Maybe paperwing? Windwhipser? Let me know if you have any ideas. We are currently crossing the Anathe chain, north of Fool's Gold and I am scared sis, this is not a fun place. We're close to our goal though, that weird anomaly I mentioned right on the edge of zone 3? Hopefully we won't have to cross that line to study it. Thankfully, Mazi, Robinson, and Yana are strong and can protect me. They slayed a Rathalos yesterday can you believe that? Mazi got picked up like she was nothing and got slammed into the ground like a cracking an egg, it was terrifying but she's a slippery one and managed to escape its jaws before that happened, thank the gods. I also wanted to let you know that the univeristy of Nagan let me know by telepathic means that my thesis was a green light and that they would publish it as soon as I cam back! How sweet would that be? 
+
 ## The red dragon
 
 
-
+Hi Kite! Isn't this new spell so cool? It traces the aetheric signature of someone you know, kind of like a beast would hunt with its scent of smell! Hopefully the beasts leave it alone and it does manage to get to you. I sent this to you on Monday the 23d, so let me know next time we see each other when it got to you. I still haven't figure out a name... Maybe paperwing? Windwhipser? Let me know if you have any ideas. We are currently crossing the Anathe chain, north of Fool's Gold and I am scared sis, this is not a fun place. We're close to our goal though, that weird anomaly I mentioned right on the edge of zone 3? Hopefully we won't have to cross that line to study it. Thankfully, Mazi, Robinson, and Yana are strong and can protect me. They slayed a Rathalos yesterday can you believe that? Mazi got picked up like she was nothing and got slammed into the ground like a cracking an egg, it was terrifying but she's a slippery one and managed to escape its jaws before that happened, thank the gods. I also wanted to let you know that the univeristy of Nagan let me know by telepathic means that my thesis was a green light and that they would publish it as soon as I cam back! How sweet would that be? 
 # Larger unanswered questions
 
 - What do Vespera and Zeke know about Aylin's history, the old world and the current one?
@@ -51,6 +51,8 @@ Hi Kite! Isn't this new spell so cool? It traces the aetheric signature of someo
 - Complete article about aether
 - Mizutsune wyvern scale hit ? what did I mean by this
 - Lavender
+- Banbaro Battle horn
+- They rolled a 15 on the die
 
 # Remember
 - Highlight the interactibles (3 things)

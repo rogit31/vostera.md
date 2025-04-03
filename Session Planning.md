@@ -1,8 +1,5 @@
 # Announcements
-- Decide on whether or not they want revive
-- Water Fox Wyvern Goop
 - REVIVFY IS BANNED 
-
 
 # Player ties
 - Hemlock's mother
@@ -41,6 +38,15 @@ Hi Kite! Isn't this new spell so cool? It traces the aetheric signature of someo
 
 # TODO
 
+- Build the old world, what it was like and what traces are left
+- What did Phineas find about the old world?
+- Why did Phineas disappear? Is he the only disappearance or did his entire crew disappear? 
+- What is in Fool's gold? 
+- What is the actual adventure or structure of this session? 5 stage 'dungeon' perhaps? 
+- Who is the dragonrider? 
+- How are the Peacekeepers planning on finding the dragonrider, the book, and what did they do with Phineas if they were the ones to kidnap him? 
+- How do we deal with random encounters and resting from now on? 
+- How do I make it into a chase in between the peacekeepers and the party?
 - Go into more detail about the Aylin's children's upbringing, I think this will unlock a lot of the story paths for Zeke and Vespera. 
 - Finish the playlists, add theme songs for vespera, the order, maybe some others.
 - Make some weathered paper and write a letter from Meg's brother magnus
@@ -49,7 +55,6 @@ Hi Kite! Isn't this new spell so cool? It traces the aetheric signature of someo
 - Lucina's statsheet
 - Vixal's statsheet
 - Complete article about aether
-- Mizutsune wyvern scale hit ? what did I mean by this
 - Lavender
 - Banbaro Battle horn
 - They rolled a 15 on the die

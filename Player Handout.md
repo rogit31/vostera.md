@@ -1,0 +1,51 @@
+[[Vostera]] is on the brink of a world-wide war. 825 years after the birth of the mythical figure known as [[The Planewalker]] and of the new world, the world has progressively moved through bronze, iron, steel - now a new age-defining technology is upon Vosterians, [[Aetherates]]. Rocks, minerals and their derived and engineered materials that seem to seep and ooze [[Aether]], magical energy. The first aetheric lamps have just been made, and it seems like there is no stopping the train of progress. However these are a limited natural resource that seem to be only found in specific places. This is destabilizing the already fragile relationships in between the 6 political entities on [[Vostera]], wrestling for control over this new resource.  The [[Ashir Empire]] is the largest, a colonial bully that just twenty years ago swiftly crushed and conquered [[Imar]], a smaller continent to its south. It had before this peacefully stayed within its borders for about a century, thanks to a change in leadership at its helm, [[The Hudals]]. Only about a month ago at the time of writing this article, for the first time since this peaceful century, the senate of the empire has changed hands, to the [[Vesperians]]. The Vesperians are allies of [[Vespera Argent]], the consul of the Ashir Empire, and the head of the [[Academy Arcanum]]'s peacekeeping branch. 
+
+As the newly elected consul and with the majority of the popular opinion in her favor, she has declared war on [[Aegur]], a continent to the south-west of the empire, across a large sea. This is with the exception that if the [[Aegurian Confederation]] cooperates with the empire when it comes to trade and extraction of [[Aetherates]] on their territory, and cooperation when it comes to the extermination of a terrorist group by the name of the [[Order of the Black Sun]]. The motives behind which the players are still uncertain about. 
+
+Through a series of quests and happenstance, the party of this campaign, [[Cheetoh's Angels]], has become entangled with [[Vespera Argent]], worked for her for a limited amount of time before eventually quitting her employment. They have recently learned that [[Vespera Argent]] is on the hunt for a book that would contain the schematics for an aetheric machine that could teleport massive amounts of troops and cargo across the world, which is one of the only feasible ways for the conquest of Aegur to be swift. This book is supposedly in the hands of a dragonrider situated in the [[Aegurian Wildlands]], an island to the south of [[Aegur]] filled to the brim with monsters, wyverns and dragons of all kinds, famous for killing the vast majority of hunters that come across it.
+
+This campaign is heavy with mystery, lore, and diplomacy. The majority of quests have been stealth based, however recently have veered into different genres of ttrpg play from adventure to adventure, touching on hack and slash, monster-hunter style survival and crafting, adventure and exploration focused sandbox and more. 
+
+The party is currently comprised of a wizard, a bard, a rogue, a warlock, and a barbarian. 
+
+# Expanded
+## The Whispers of a Shattered World
+
+**Eight centuries have passed since the skies wept fire and the earth trembled under the footsteps of gods made flesh.** The age of the colossal Titans is a fractured memory, a myth woven into the very soil of Vostera. Now, in this contemporary era, the descendants of those who survived the cataclysm walk a world unknowingly built upon secrets and the ashes of a forgotten past.
+
+**You are Cheetoh's Angels, a band of adventurers forged in the crucible of this uncertain age**. Your path has been anything but predictable, leading you through bustling cities and treacherous wilderness, tangling you in the schemes of powerful factions and unveiling glimpses of a truth that the ruling powers desperately seek to bury.
+
+### The World of Vostera: A Scarred Legacy
+
+- **A World Reborn:** Vostera as you know it emerged after the **Titanic Wars**, an era of conflict between colossal beings known as Titans who roamed the land before possessing true consciousness. The end of this age ushered in a new era, marked by the emergence of humanoid races across diverse environments.
+- **The Sunmother and Her Gifts:** Legend tells of **Sola, The Sunmother**, who, upon the end of the Titanic Wars, granted her creations the gifts of speech, conscious thought, empathy, and love.
+- **The Myth of the Planewalker:** From the connection of Sola's light with a dormant Titan arose a special being: **The Planewalker**. Revered as the first spellweaver and a guide to early civilizations, it is believed all spellweavers are her descendants. Some even say she was born from a Titan's corpse after a great winter, inheriting their powers.
+- **The Ashir Empire:** Centuries later, the **Ashir Empire** rose to dominate the continents of Eloran and Imar. Originally ruled by the Ashir family, descendants of the Planewalker's firstborn, Nola Ashir, the empire has seen political upheaval, most recently with the rise of the **Vesperians** under Consul **Vespera Argent**. The empire values strength, civilization, and academics, often considering itself more advanced than other political entities.
+- **The Academy Arcanum:** Founded by Nola Ashir, the **Academy Arcanum** serves as a center for learning and the control of magic within the Ashir Empire. Its peacekeeping division is currently headed by Vespera Argent.
+- **The Veil of Ignorance:** For centuries, the true history of Vostera, including a cataclysmic event known as **Titanfall**, has been deliberately obscured by the Ashir Empire and the Academy Arcanum, ensuring the secrets of the Titans remain buried.
+- **The Order of the Black Sun:** A radical organization known as the **Order of the Black Sun (OBS)** seeks to restart the world by recreating an aetheric bomb, believing the re-emergence of magic (the 'weave') is a blight and that the truth of genesis is a lie. They believe the survival of Aylin and Nola Ashir caused the regeneration of the weave. Their leader is **Zeke Ashir**, an illegitimate descendant of the Ashir family.
+- **Aether and Aetherates:** **Aether** is the fundamental energy of magic. Recently, **aetherates**, minerals that seep aetheric energy, have become a valuable but limited resource, further destabilizing the political landscape.
+- **Titanfall and The Drain:** Long before the current era, Vostera suffered a cataclysm known as Titanfall, the result of **Aylin Ashir**, the original Planewalker, creating a potent anti-magic bomb using aetherates in her fury after her husband's murder and the suppression of his research on Titans. Approximately a thousand years later, Aylin's surviving children emerged from an alternate plane to a world devoid of aether. As a scientist, Aylin later discovered aether was returning. The site of the Titanfall is surrounded by a dangerous condition known as **The Drain**, caused by charged tripal dust, which weakens and eventually kills those exposed for too long.
+- **The Books of Genesis:** Before her death, the Planewalker, Aylin Ashir, wrote nine tomes known as **The Books of Genesis**, containing a vast amount of knowledge intended for her daughter Nola to guide the new civilization and potentially create another aetheric bomb if needed. These books are now scattered and sought after by various factions.
+
+### Campaign Themes: Unraveling the Past, Shaping the Future
+
+Your journey has thrust you into the heart of several key conflicts and mysteries:
+
+- **The Truth Behind the Myths:** You have begun to glimpse the reality behind the stories of the Titans, the Planewalker, and the creation of the modern world, realizing that the accepted history is a carefully constructed narrative.
+- **The Nature of Magic:** You have witnessed the power and the potential dangers of aether and spellweaving, and the ongoing struggle to control or eradicate it.
+- **Political Intrigue and Factional Conflicts:** You are navigating a web of alliances and betrayals, with the Ashir Empire, the Order of the Black Sun, and other hidden powers vying for control and influence.
+- **Moral Choices and Consequences:** The lines between right and wrong are often blurred, and the decisions you make have significant repercussions for yourselves and the world around you.
+- **The Legacy of the Planewalker:** You are directly involved in the search for the Planewalker's lost knowledge and her physical remains, artifacts that hold immense power and historical significance.
+
+### Cheetoh's Angels: Your Company
+
+Your diverse skills and experiences have brought you together, and your actions have already begun to shape the destiny of Vostera:
+
+- You have worked for **Vespera Argent**, the ambitious Consul of the Ashir Empire, undertaking missions that have hinted at her own complex agenda and her connection to the Planewalker's legacy.
+- Your investigations have led you to uncover secrets about **Titanfall**, the true nature of aether, and the existence of the **Books of Genesis**, making you targets for those who wish to control this knowledge.
+- You have encountered and interacted with the **Order of the Black Sun**, understanding their radical ideology and their pursuit of a world without magic.
+- Your recent travels have taken you to the dangerous **Aegurian Wildlands**, a land teeming with powerful creatures and holding secrets related to the lost tomes and potentially even Kite's missing brother, Phineas Goldclaw. Phineas, a researcher, was investigating anomalies in the Wildlands and may have been forcibly taken.
+- You possess at least one of the nine Books of Genesis, the **Tome of War**, granting you insight into ancient strategies and weapon schematics. You are currently tasked by Vespera Argent with retrieving the **body of the Planewalker** and the **eighth tome of genesis**.
+
+The world holds its breath, teetering on the brink of war as the hunger for forgotten knowledge and control over newfound power intensifies. The whispers of the past are growing louder, and Cheetoh's Angels find themselves at the precipice of a destiny far greater than they might have imagined. The choices you make will determine not only your own fate but the future of Vostera itself.

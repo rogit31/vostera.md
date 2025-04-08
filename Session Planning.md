@@ -22,12 +22,23 @@
  - On some rolls, they can perhaps notice the charred bodies of a gigantic wyvern, which could be caused by an ancient red dragon. They notice upon closer inspection that it is more likely its caused by mutliple smaller dragons. This is the Vespera squad rolling out. 
 - They encounter them maybe in a week or so? 
 
-# Phineas' Letter
+### Vespera's trick
+She messages Meg pretending to be Magnus. She asks them where they are so he can send her a letter. 
 
-## The red dragon
+# The chase
+the group encounters the day after they rest, the remains, bones, clothes and property of what looks like to a similar squadron of peacekeepers. They find a sending stone. Later into the day, "Sergeant Greywood reporting, we've found signs of a red dragon spotting at fool's gold, i repeat, sighted at fools gold. *SCREAMS* crashing, roar."  the sending stone reports to all squads to abandon wyverns as it poses too much of a danger to travel in the air because of the dense concentration of monsters. We got a report of a Red Dragon Spotting They claim to be 4 days out from reaching fools fold. 
+
+## Empire POV
+Vespera knows the tome of civilization is there and in the hands of the dragonrider (most likely her brother)
+- She sends academy troops to look for it. 
+- They presumably don't know anything else about it. 
+- Some academy troops were previously sent to deal with Phineas and his research. 
+- They tracked and found the party, had a fight with them, which would have ended in an at least partial academy victory since Phineas's party didn't come back. 
+- When they fought, they left behind traces of a fight. Phineas' party fought valiantly, but lost eventually. Uuno interrupts, killing the peacekeepers and kidnapping Phineas' party. He currently inhabits Phineas's body.
 
 
-Hi Kite! Isn't this new spell so cool? It traces the aetheric signature of someone you know, kind of like a beast would hunt with its scent of smell! Hopefully the beasts leave it alone and it does manage to get to you. I sent this to you on Monday the 23d, so let me know next time we see each other when it got to you. I still haven't figure out a name... Maybe paperwing? Windwhipser? Let me know if you have any ideas. We are currently crossing the Anathe chain, north of Fool's Gold and I am scared sis, this is not a fun place. We're close to our goal though, that weird anomaly I mentioned right on the edge of zone 3? Hopefully we won't have to cross that line to study it. Thankfully, Mazi, Robinson, and Yana are strong and can protect me. They slayed a Rathalos yesterday can you believe that? Mazi got picked up like she was nothing and got slammed into the ground like a cracking an egg, it was terrifying but she's a slippery one and managed to escape its jaws before that happened, thank the gods. I also wanted to let you know that the univeristy of Nagan let me know by telepathic means that my thesis was a green light and that they would publish it as soon as I cam back! How sweet would that be? 
+
+
 # Larger unanswered questions
 
 - What do Vespera and Zeke know about Aylin's history, the old world and the current one?

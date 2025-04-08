@@ -52,28 +52,31 @@ name: "Vespera Argent"
 layout: Basic 5e Layout
 size: medium
 cr: 18
-ac: 18
-hp: 200
+ac: 20
+hp: 240
 speed: 30
-stats: [16, 14, 14, 22, 22, 22]
+stats: [18, 16, 18, 22, 24, 22]
 
 saves:
-  - intelligence: 10
-  - wisdom: 10
-  - charisma: 10
+  - intelligence: 12
+  - wisdom: 13
+  - charisma: 12
 
 damage_resistances: Poison damage
 damage_immunities: psychic damage (from mind blank)
 condition_immunities: "charmed, slept, paralyzed, polymorphed, feared, flanked"
 senses: truesight 60ft., passive Perception 20
-legendary_description: "Vespera is a legendary creature."
+legendary_description: "Vespera is a legendary creature. She can take any of these actions after someone else's turn."
+legendary_actions:
+  - name: Summon snakes
+    desc: (at will) Vespera summons 4d12 venemous snakes. 
 bestiary: true
 traits:
   - name: Arcane Prodigy
     desc: Vespera is the greatest spellcaster alive, and is exempt from VSM components, can cast and learn any spell she witnesses, and can cast multiple spells per turn.
     attack_bonus: 0
   - name: Legendary Resistance (3/Ever)
-    desc: If Vespera fails a saving throw, she can choose to succeed instead.
+    desc: If Vespera fails a saving throw, she can choose to succeed instead. When she does, her deduplicate takes the blow for her and the spell being cast is interrupted.
     attack_bonus: 0
 actions:
   - name: Arcane Javelin
@@ -93,11 +96,18 @@ actions:
     desc: "NUKE - 60 FT You compel one creature you can see within range to die. If the creature you choose has 100 hit points or fewer, it dies. "
   - name: Teleport
     desc: "2/DAY ESCAPE - This spell instantly transports you and up to eight willing creatures that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be Large or smaller, and it can’t be held or carried by an unwilling creature."
+  - name: Time Stop
+    desc: "1/DAY - Time stops for everyone but herself. You take 1d4 + 1 turns during which you can use your actions and move as normal. Ends when you affect anyone but yourself."
   - name: True Shatter
     desc: "CONTROL - (5-6 Recharge) - 60 Foot Cone - From self or javelin - Creatures within the cone must make a DC 20 STR save or be pushed 20 feet back, take 12 (4d6) force damage and knocked prone. Affected terrain becomes difficult terrain."
+lair_actions:
+  - name: Deduplicate
+    desc: (3/day)A copy of Vespera starts channeling a powerful spell at the end of her turn. The deduplicate has the choice of a single 30 foot radius circle, three 5 ft. wide lines in a range of 60 ft. from herself, or a 40 ft. cone. At the start of Vespera's turn, any creatures standing in that area must make a DC 20 CON save or take 8d10 force damage. Half damage on save.
 bonus_actions:
   - name: Telekinetic Yank 
     desc: "You target a creature you can see of size medium or smaller, they make a strength saving throw DC 20 or are pulled 30 feet in the direction of your choosing. A creature cannot fall as a result of this spell, if they encounter a ledge they stop before falling."
+  - name: Blink
+    desc: "You blink out of existence and teleport to a spot you can see within 20 feet without provoking an attack of opportunity."
 spells:
   - "Vespera is a 19th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 20, +10 to hit with spell attacks). Vespera can cast any spell in existence, but prefers to use the ones listed in the actions."
 

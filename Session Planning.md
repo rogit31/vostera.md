@@ -38,7 +38,6 @@ Vespera knows the tome of civilization is there and in the hands of the dragonri
 
 
 
-
 # Larger unanswered questions
 
 - What do Vespera and Zeke know about Aylin's history, the old world and the current one?

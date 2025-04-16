@@ -1,6 +1,10 @@
+## April 15th
+
+
+
 ## April 7th
 
-You guys communicated with Lavender and got feedback for him in combat. Meg received a message from her brother, who she successfully figured out was not actually her brother. You guys noticed a plume of smoke off into the distance, that you tracked down and found a bunch of corpses with about four bodies strewn about. They were surrounded by Vulture wyverns, these smaller, scavenger animals that feed on corpses. You found a sending stone similar to the one you guys had with Elwyn, and you overheard someone from the sending stone panicking, most likely in their last moments, say they sighted the red dragon near fools gold. Vixal Blund, Vespera's right hand man, ordered all of the squads linked by this sending stone system to head that way, and that they were 5 days out. You picked up a soldiers skull and stuffed it into your bag of holding with the three simple +1 weapons, including a longsword, shortbow, and warhammer.    
+You guys communicated with Lavender and got feedback for him in combat. Meg received a message from her brother, who she successfully figured out was not actually her brother. You guys noticed a plume of smoke off into the distance, that you tracked down and found a bunch of corpses with about four bodies strewn about. They were surrounded by Vulture wyverns, these smaller, scavenger animals that feed on corpses. You found a sending stone similar to the one you guys had with Elwyn, and you overheard someone from the sending stone panicking, most likely in their last moments, say they sighted the red dragon near fools gold. Vixal Blund, Vespera's right hand man, ordered all of the squads linked by this sending stone system to head that way, and that they were 5 days out. You picked up a soldiers skull and stuffed it into your bag of holding with the three simple +1 weapons, including a longsword, shortbow, and warhammer. Uuno Berimund. 
 
 ## March 26th
 Kite got a message from her brother. You guys encountered a patrol squad of peacekeepers who were undercover, with the directives of finding you but avoiding you. You were at the same time ambushed by a [[Banbaro]], who you defeated after some lengthy combat. You acquired the components required for the Banbaro horn. 

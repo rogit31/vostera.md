@@ -9,10 +9,12 @@
 
 # Potential scenes
 
- - Hemlock hallucinates/dreams of the old world 
- - Information gathering, explaining the game, encountering a significant other party
- - Pepper story and rp moments throughout the travelling somehow
- - They're looking for a red dragon, so make it a chase for the adult red dragon somehow
+ - Hemlock gets a vision of the old world as they are exploring
+ - Lavender talks with Dorbledumb
+ - roll for weather 
+ - Depending on weather, noticeably warmer/colder
+ - Don't forget to mention liselos and teleport artifact
+
 
 ## Ashir on the move
  - Vespera has sent some reconnaissance to start looking for the last book of genesis
@@ -50,13 +52,7 @@ Vespera knows the tome of civilization is there and in the hands of the dragonri
 
 - Build the old world, what it was like and what traces are left
 - What did Phineas find about the old world?
-- Why did Phineas disappear? Is he the only disappearance or did his entire crew disappear? 
-- What is in Fool's gold? 
 - What is the actual adventure or structure of this session? 5 stage 'dungeon' perhaps? 
-- Who is the dragonrider? 
-- How are the Peacekeepers planning on finding the dragonrider, the book, and what did they do with Phineas if they were the ones to kidnap him? 
-- How do we deal with random encounters and resting from now on? 
-- How do I make it into a chase in between the peacekeepers and the party?
 - Go into more detail about the Aylin's children's upbringing, I think this will unlock a lot of the story paths for Zeke and Vespera. 
 - Finish the playlists, add theme songs for vespera, the order, maybe some others.
 - Make some weathered paper and write a letter from Meg's brother magnus
@@ -66,8 +62,6 @@ Vespera knows the tome of civilization is there and in the hands of the dragonri
 - Vixal's statsheet
 - Complete article about aether
 - Lavender
-- Banbaro Battle horn
-- They rolled a 15 on the die
 
 # Remember
 - Highlight the interactibles (3 things)

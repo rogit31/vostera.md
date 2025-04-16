@@ -5,4 +5,4 @@
 
 # Spellcasting variant
 ![[Pasted image 20250407130904.png]]
-.
+.![[Pasted image 20250415182346.png]]

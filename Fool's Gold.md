@@ -81,4 +81,5 @@ leads directly to the actual entrance of the central core.
 The door to the nest of the facility is protected by a combination of symbols of this scripture they cannot read. It seems to be numeral. The password is 0211, the date of his daughter's birth, and that date can be found in Zachary's office, on the -2 floor.
 
 
-
+## Tripal dispersion system
+Tripal is required to be coupled to atually work, however, this uses different radiation lengths to do so. This titancore reactor uses a spectrum of liquid tripal to emanate a constant flow of aether to connected manufactured aether-based technologies. 

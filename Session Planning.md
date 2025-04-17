@@ -21,7 +21,26 @@
 - Fight happens
 - They explore the rest of fools gold 
 - Or try to save/kill Uuno? lol
+## Character arcs
+### Hemlock
+Vero looooves the exploration and discovery of the pre-titanic world. 
+However as the god of madness maybe something goes wrong, or is set as a complication for Hemlock
+Maybe give him a wisdom saving throw in combat since it is very reminiscent to his battle days
+Don't know what to do with his mother
+### Kite
+Is obviously meeting her brother in a way
+Don't forget to ask directly how she reacts in character
+I think the meemaw interactions are great
 
+### Dorbledumb
+Could have one of the enemies know him 
+not too sure what to do overall 
+
+### Sylril
+Has another dream with Mila the night before the fight fo sho
+
+### Meg
+Literally have no clue besides Magnus
 ## Empire POV
 Vespera knows the tome of civilization is there and in the hands of the dragonrider (most likely her brother)
 - She sends academy troops to look for it. 

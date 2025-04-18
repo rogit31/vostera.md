@@ -34,11 +34,17 @@ I think the meemaw interactions are great
 
 ### Dorbledumb
 Could have one of the enemies know him 
-not too sure what to do overall 
-
+What if he experimented on something, it went poorly, and that's why he's so obsessed with experimenting on himself instead
+Maybe Vespera or someone else or something else made him forget what and how it went wrong
+Which made him obsessed with the idea of remembering who and how he wronged someone or something in his experiments
+Which lead him to trying to find a cure to the true modify memory spell
+And his obsession with experimenting on himself
+Maybe something to do with an old lady since that his other character trait
 ### Sylril
 Has another dream with Mila the night before the fight fo sho
-
+Upside down fiery lake 
+Sylril's sister drowns in it
+Mila asks him her question again 
 ### Meg
 Literally have no clue besides Magnus
 ## Empire POV

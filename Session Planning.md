@@ -1,9 +1,9 @@
 # Announcements
+- Feel free to  contribute to the playlists
+- Daniel got a job! And will be leaving us soon : (
+- Alternative initiatives don't sound too hot 
 
 # TODO
-
-- Add more songs to the combat playlist
-- consider alternative initiatives?
 - What did Phineas find about the old world?
 - Make the actual 'dungeon' for the site
 - Finish the playlists, add theme songs for vespera, the order, maybe some others.

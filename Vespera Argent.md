@@ -55,10 +55,10 @@ Her ultimate goal is to do something? lol need to figure out exactly what
 name: "Vespera Argent"
 layout: Basic 5e Layout
 size: medium
-cr: 18
-ac: 20
-hp: 240
-speed: 30
+cr: 22
+ac: 21
+hp: 400
+speed: 40
 stats: [18, 16, 18, 22, 24, 22]
 
 saves:
@@ -84,10 +84,12 @@ traits:
     attack_bonus: 0
 actions:
   - name: Arcane Javelin
-    desc: "Vespera can make this attack and cast a spell as a single action. Melee or Ranged Weapon Attack: +10 to hit, reach 10 ft. or range 30/90 ft., one target. Hit: 28 (4d10 + 8) piercing damage. Vespera can attach a spell to the javelin, making it detonate from the javelin as the same attack. The javelin always comes back to Vespera within the same round, whether it lands or not."
+    desc: "Vespera can make this attack and cast a spell as a single action. Melee or Ranged Weapon Attack: +10 to hit, reach 10 ft. or range 60/120 ft., one target. Hit: 28 (4d10 + 8) piercing damage. Vespera can attach a spell to the javelin, making it detonate from the javelin as the same attack. A target that is hit by this javelin automatically fails on the saving throw related to the spell attached. The javelin always comes back to Vespera within the same round, whether it lands or not."
     attack_bonus: 10
     damage_dice: 4d10
     damage_bonus: 8
+  - name: Darkness, Concentration
+    desc: Magical darkness spreads from a point you choose within range to fill a 15-foot radius sphere for the [duration](https://roll20.net/compendium/dnd5e/Rules:Spells?expansion=34047#toc_20). The darkness spreads around corners. A creature with [darkvision](https://roll20.net/compendium/dnd5e/Monsters?expansion=34047#toc_20) can't see through this darkness, and nonmagical light can't illuminate it.
   - name: Piercing Rush
     desc: "Vespera throws her javelin at a massive speed in a straight line. All creatures in a 60 foot line make a DC 20 dexterity saving throw, taking 28 (4d10 + 8) piercing damage and 18 (2d12 + 6) thunder damage."
   - name: Telekinetic Impale

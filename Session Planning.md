@@ -1,5 +1,5 @@
 # Announcements
-- Feel free to  contribute to the playlists
+- Feel free to contribute to the playlists
 - Daniel got a job! And will be leaving us soon : (
 - Alternative initiatives don't sound too hot 
 

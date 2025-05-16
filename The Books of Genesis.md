@@ -13,5 +13,5 @@ There are nine tomes to this collection of books each describing a different asp
 5. Tome of metallurgy  - Dwarven cellar
 6. Tome of aetherology - Academy cellar
 7. Tome of mechanics - OBS
-8. Tome of physics - Last dragonrider
+8. Tome of civilization - Last dragonrider
 9. Tome of war - [[Solist church]]

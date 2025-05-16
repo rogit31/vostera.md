@@ -1,4 +1,7 @@
-## May 
+## May 15h
+As the battle came to a close, all of you joined Uuno and beriumund arount the captured sorceress, who introduced herself as [[Edith Caldwell]], a double agent of Order. She revealed to you guys immediately, that one of the other original children, Zeke Ashir, a sibling of both Uuno and Vespera, was still alive, and could help against defeating Vespera. Edith explained that the stolen schematics from the tome of War included a machine, a bomb that could presumably erase aether from Vostera entirely. She described it as significantly complex and requiring a large amount of aetherates. She asked for Uuno's help in building this bomb. You all discussed the possibility of either the bomb not doing as she was told, and wiping aether and life, or the connection in between aether and life being impacted, or even for the potential for aether to simply return after being erased. 
+
+You then discussed with Uuno the tomes of genesis, their purpose and origin. Uuno mentioned stealing the tome of civilization from his sister, Nola, who was their mother's favorite, the first to cast a spell, and the one who originally had all the books. You recalled all nine books. 
 ## April 25th
 - Kite meets her brother not brother, Uuno in phineas' body
 - Continued exploring the underground facility

@@ -1,18 +1,11 @@
 # Announcements
-- Feel free to contribute to the playlists
-- Daniel got a job! And will be leaving us soon : (
-- Alternative initiatives don't sound too hot 
+
 
 # TODO
 - What did Phineas find about the old world?
-- Make the actual 'dungeon' for the site
 - Finish the playlists, add theme songs for vespera, the order, maybe some others.
-- Make physical items for the puzzle
 - Finish painting minis
-- Finish the sheets for the elite group and the peacekeeper variations
 - What the fuck is pheonixgate?
-- Vixal's statsheet needs some more work
-- What going on with the OBS 
 
 # Plot
 ## Scenes

@@ -5,7 +5,9 @@ You then discussed with Uuno the tomes of genesis, their purpose and origin. Uun
 
 You guys considered only uploading the beneficial parts of the Tome of Civilization with a watermark to Veropedia, and erasing the rest from Hemlock's memory using modify memory. You read a small amount of the book, and found out that what starts as philosophy in the book quickly turns to governance and propaganda techniques, with the big milestones for spreading information being cited as means of controlling the spread of information, that includes a governance of fear, disappearing people, and liberal use of modify memory spells. 
 
-You guys confessed to stealing the book and the body and giving it to Vespera, which pissed Uuno off, but he ultimately has to work with you regardless. You inquired about vandalizing the tripal present in the power facility, which he reccomended against, 
+You guys confessed to stealing the book and the body and giving it to Vespera, which pissed Uuno off, but he ultimately has to work with you regardless. You inquired about vandalizing the tripal present in the power facility, which he recommended against, but you were curious about, considering the way this energy seems to be ditstributed.
+
+You guys then headed out to explore the facility once more, waiting for an answer from the order, solved a small puzzle, and eventualyl found an armory filled with weapons and equipment. 
 ## April 25th
 - Kite meets her brother not brother, Uuno in phineas' body
 - Continued exploring the underground facility

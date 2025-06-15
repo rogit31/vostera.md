@@ -1,4 +1,4 @@
-The tank of the [[Aegurian Wildlands]].
+-The tank of the [[Aegurian Wildlands]].
 
 # Visuals
 

@@ -7,13 +7,19 @@
 - Finish painting minis
 - What the fuck is pheonixgate?
 
+
 # Plot
+## Plot Objectives 
+
+- Reveal more/all lore
+- Have them realize the objective of the OBS and the origin of the world specifically
+- Mount an attack on the order first, then vespera
+## Vespera Objectives
+## OBS Objectives
+## Party Objectives
+
 ## Scenes
-- Phineas (Uuno) talks with Kite
-- They prepare their ambush
-- Fight happens
-- They explore the rest of fools gold 
-- Or try to save/kill Uuno? lol
+
 ## Character arcs
 ### Hemlock
 Vero looooves the exploration and discovery of the pre-titanic world. 
@@ -69,6 +75,9 @@ Vespera knows the tome of civilization is there and in the hands of the dragonri
 - Who knows about Aylin's secret?
 - Who knows the academy's actual goals? 
 
-
+## Notes
+they're charging weapons hella
+got two weapons from the banbaro
+war hammer and one extra
 
 

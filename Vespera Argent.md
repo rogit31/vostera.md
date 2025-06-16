@@ -1,4 +1,4 @@
-Vespera is [[The Planewalker]]'s daughter, and the [[Ashir Empire]]'s elected consul. Sister of [[Zeke Ashir]] and [[Nola Ashir]].
+Vespera is [[The Planewalker]]'s daughter, and the [[Ashir Empire]]'s elected consul. Sister of [[Zeke Ashir]],  [[Nola Ashir]], and [[Uuno Stalwhite]].
 
 ## Roles and titles
 
@@ -6,16 +6,6 @@ Vespera is [[The Planewalker]]'s daughter, and the [[Ashir Empire]]'s elected co
 
 Vespera Argent is the head of the peacekeeping division of the [[Academy Arcanum]]. During the invasion of [[Imar]], she was also the Commander of he Joint Peacekeeper Taskforce. She is currently campaigning for senate positions with her party, the [[Vesperians]]. She is notably an extremely charismatic spokesperson, and is widely liked through the [[Ashir empire]] for her strong stances on defense. She took much of the claim for the successful invasion of [[Imar]], lasting only a year. 
 
-## Background
----
-
-Vespera Argent is part of the powerful Argent family, located in [[Avendor]]. They control much of the real estate in trade in the city, and are famous for hosting lavish parties in the Clarit Hill residences. Vespera's age is unkown, and many speculate she has been alive for over at least two centuries as she is of elven blood. 
-
-## In relation to Campaign 1
-
----
-
-Vespera Argent has tracked down and kept tabs on Cheetoh's Angels for a while during this campaign, and has recently tasked you with retrieving the body of the planewalker and the eight tome of genesis. 
 
 ## Objectives
 ---
@@ -122,3 +112,9 @@ spells:
   - "Vespera is a 19th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 20, +10 to hit with spell attacks). Vespera can cast any spell in existence, but prefers to use the ones listed in the actions."
 
 ```
+
+## Logs
+- Became consul of the [[Ashir Empire]]
+- Declared war on Aegur
+- Sent a team (originally Cheetoh's angels) to fetch the book of civilization and its containing schematics 
+- 

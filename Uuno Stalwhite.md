@@ -1,0 +1,1 @@
+One of the original children, holder of the tome of civilization of [[The Books of Genesis]].

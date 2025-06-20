@@ -11,6 +11,8 @@
 - How to reveal Vespera's goals
 - Make all the items that they got on dndbeyond
 - Give Daniel the repo and instructions on what to do
+- Write down the names of all the original children
+- Lock in the specifics of the ACR
 
 # Plot
 ## Plot Objectives 

@@ -3,8 +3,8 @@
 - Cool picture by Robyn
 
 # TODO
-- Flesh out what Phineas new and went through, he becomes a main NPC
-- Finish the playlists, add theme songs for vespera, the order, maybe some others.
+- Flesh out what Phineas knew and went through, he becomes a main NPC
+- Finish the playlists, add theme songs for Vespera, the order, maybe some others.
 - Finish painting minis
 - What the fuck is pheonixgate?
 - How to reveal the OBS's goals (zeke's)
@@ -13,6 +13,11 @@
 - Give Daniel the repo and instructions on what to do
 - Write down the names of all the original children
 - Lock in the specifics of the ACR
+- Phineas and Kite meet parents
+- Banbaro hoof carapace for sylril
+- Shopping on downtime
+- Research for pocket plane
+- 
 
 # Plot
 ## Plot Objectives 
@@ -25,6 +30,8 @@
 ## Party Objectives
 
 ## Scenes
+- They arrive to the last respite once again, craft all their items
+- announce the death of lavender
 
 
 

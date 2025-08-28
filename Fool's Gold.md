@@ -1,8 +1,8 @@
-Fool's gold is a keep buried deep within the Anathe chain. It is an old pre-cataclysm titan power station. However, the entrance to the power station has never been opened. Hidden deep below ruins of a town, that the only remains are vague structural indications of a time long past. Digging here often returns odd but valuable objects made of glass, steel, or other metals that might have survived for about 10.000 years or so. 
+Fool's gold is a keep buried deep within the Anathe chain in the [[Aegurian Wildlands]]. It is an old pre-cataclysm [[Titans | titanic]] power station. However, the entrance to the power station has never been opened. Hidden deep below ruins of a town, that the only remains are vague structural indications of a time long past. Digging here often returns odd but valuable objects made of glass, steel, or other metals that might have survived for about 10.000 years or so. 
 
 # Plot hooks
 - Despite the freezing cold in the rest of the anathe chain, during sunny days, the ruins are strangely warm. The snow and ice melts in a particular circular pattern. 
-- Biology here is particularly infused with Liselos
+- Biology here is particularly infused with [[Liselos]]
 - Rivers here are greener than before
 - There is a canyon in the middle of the ruins, where the biology is warmer. There is a glimmer of green at the bottom of the canyon. 
 - The disposition of the ruins is odd. In the gorge itself, there is treasure, however, once you get closer to the heart of the mountain, to the glacier, there is an odd perfectly circular disposition to everything around it. 

@@ -1,20 +1,27 @@
 Vespera is [[The Planewalker]]'s daughter, and the [[Ashir Empire]]'s elected consul. Sister of [[Zeke Ashir]],  [[Nola Ashir]], and [[Uuno Stalwhite]].
 
 ## Roles and titles
-
 ---
-
 Vespera Argent is the head of the peacekeeping division of the [[Academy Arcanum]]. During the invasion of [[Imar]], she was also the Commander of he Joint Peacekeeper Taskforce. She is currently campaigning for senate positions with her party, the [[Vesperians]]. She is notably an extremely charismatic spokesperson, and is widely liked through the [[Ashir empire]] for her strong stances on defense. She took much of the claim for the successful invasion of [[Imar]], lasting only a year. 
+
+## Goals
+---
+The re-emergence of aether is a poison. Without the titans to properly collect and recycle aether, it accumulates and festers, eventually leading to disease. Soon titanfall will spread. The people might be able to co-ordinate their increased aetheric capabilities to fend off the disease and stay peaceful, but everything Vespera has experienced until now points to the contrary. She will guide the transition. The titans cannot be brought back, but until then, aether can be harvested, collected. Pylons made of tripal can conduct large amounts of aether into one facility, where aether could be safely stored, recycled or manufactured into useful items, made to be more productive. And also, give Vespera and the Ashir empire exclusive control. The re-emergence of aether gets to be controlled, and the empire grows forever stronger. This however requires that the empire gets complete control over the five continents. Until then, there is no stopping. 
 
 
 ## Objectives
 ---
 Now that her unit has been defeated, she will go towards her second option towards retrieving the information in the tome of civilization. 
 
-  
+## Logs
+---
+- Became consul of the [[Ashir Empire]]
+- Declared war on Aegur
+- Sent a team (originally Cheetoh's angels) to fetch the book of civilization and its containing schematics 
+
+
 
 ## A bunch of evil shit she did
-
 ---
 
 - Ordered the death of Hemlock's father because he advised against the export of Liselos to the Ashir empire. She doesn't remember who actually did the killing.
@@ -22,26 +29,34 @@ Now that her unit has been defeated, she will go towards her second option towar
 - Hemlock's accident in Imar is a direct result of Vespera wanting to test him. He is failed second in command.
 - Could or could not be the reason for only Lucina escaping from the academy.
 - Encouraging the mining of tripal despite health risks.
-
-## A bunch more evil shit she wants to do
-
----
-
-- Is provoking the OBS to attack so she can gain more political power in the academy council because she is encouraging heightened security
-- Wants to develop liselos based weapons
-- Wants to invade Aegur in order to gain control complete control over liselos instead of relying on export
+- Provoked the OBS to attack so she can gain more political power in the academy council because she is encouraging heightened security
+- Developed liselos based weapons
+- Is invading Aegur in order to gain control complete control over liselos instead of relying on export
 - With the supply of liselos, she could give liselos weapons to an entire army, solidifying her power
 - Coup the academy council, take military control and lead the third ashirian expansion.
 
-## Backstory
+
+## Diary
 ---
 
 I remember the founding home in Avendor like it was yesterday. The simple wood construction, the smell of firewood constantly burning in the winter. It was simultaneously quiet and peaceful, but rowdy with the sound of the birds and my siblings. I remember my mother telling us about how this world came to be. The gods, the titans. It was a beautiful story. Her lies were the prettiest lace to be woven right before our eyes. Relatively young I could already tell something was off. Nola and me could tell. The other children believed her without a doubt in their minds, but we could tell. If we were born from the soil, from the light of Sola, where were the others? What was she hiding from us when she walked away for days at a time, making sure she wasn't followed into the woods? Where did these books, art pieces, tools come from? And who is in that small drawing in her locket that she kept so close to her chest? Questions all left unanswered by Aylin, and ignored by my siblings. By my 100th birthday, I had enough of the obscurity imposed by my mother and left. I was strong and cunning enough at that age to make it on my own, or so I thought. My first winter, I was resting in a log hut I had built over the summer on the east coast of Avendor, when I heard the familiar grunts of a bear smelling the food I had accidentally left much too near my resting place. I was prepared, and picked up my spear and a torch to fight off the intruder. 
 As I carefully peeled back the leather door of my hut, I was terrified to reveal not a bear, but a small scaly winged creature on four legs looking at me straight in the eye. This is what my mother called a dragon. I dropped my torch into the mud out of shock, it extinguished immediately as the cold mud splattered on my leg. The dragon roared. Terrified, I instinctively protected my face with my arms, remembering what my mother had told me about their fire breathing. I felt the heat lick and ripple over my arms, but it didn't burn. Surprised, I opened my eyes to see that the dragon was staring at me with it's jaw fully closed. The flames where coming from my fingers. Like snakes climbing a tree, they spilled down my arms and covered my chest, looking heavy and liquid. The dragon gave me an odd look that I interpreted like surprise, or maybe shock. It slowly walked away before jumping into the sky and flying away. I remember screaming profanities at it, trying to scare it away further, making sure it wouldn't come back. I don't remember what happened after that, but I remember waking up with my face in the mud. I had cast my first spell that day. 
 
-## Ultimate goal 
 ---
-Her ultimate goal is to do something? lol need to figure out exactly what 
+
+Mother has a tell when she lies. She opens her eyes just slightly more than usual, as if she were attempting to give us a wider window into her mind as she spouts nonsense. It's sickening, really. It's even more absurd how my siblings just seem to accept it. Most of them know that most of what she says isn't true and yet they're so complacent in spite of this.
+
+Nola got sick the other day. Some kind of infection mother said. I was very worried for her, despite our differences. She acted all resilient and confident as usual, despite her fever and evident pain. She eventually admitted she got bitten by a wolf while trying to play with it. How foolish to play with a wolf and expect obedience, the kind of optimistic foolishness only Nola was capable of really. She unwrapped her bleeding arm. Her wound was garish, purple and white, pus and blood mixing and dripping off of her arm like a boiling piece of meat in a furnace. She approached us all gathered over Nola like ants finding a meal. "Children, I know you're all worried for your sister, but she'll be fine. I will bring her to the woods and pray for her, Lua's moonlight will do her some good. I will be back in a few days.". The tell. Her eyes widened, just a little. I waited a few minutes, before following them. Mother's footsteps were heavy, burdened by the weight of Nola's body.  I managed to follow them into the woods and found the most interesting thing. 
+
+She has a small cabin, deep into the woods, about 2 hours walk south-east of camp, near a small creek. I carefully peeked into it through a crack of one of the imperfectly aligned slats on one of the walls. There was a small fire inside for light. Nola was lying down on a straw bed, and mother sitting on a wooden chair. She gave her something, a small, tiny thing she told Nola to swallow. She then used a small, silver looking knife, heat it over the fire and carefully cut away at the rotten infected flesh. Something about it was fascinating. I felt like what mother was doing was an act of defiance, of resistance almost. Against the natural order of things,  the whimsies of fate, or chance maybe. A way of controlling our destinies, regardless of what the Fateweaver might have in store for us. Nola's screams as the searing hot knife cut her flesh where oddly uninteresting in comparison with the poise, focus, and determination on mother's face, as if she knew this was an easy thing to solve if she tried. Soon enough she was done.
+
+Nola laid on the straw bed,  beads of sweat and tears now streaming down her face. Mother instructed her to sleep, and I understood that as my cue to leave before she realized I had found out about one of her secrets. I left and ran back to camp.  As I came back to camp, I cozied up in the room I shared with Uuno and I debated for a bit whether I should tell the others, they seemed worried. Mother had just left with our dying sister with very little explanation after all. But Something about me knowing while the others where in the dark was exciting, gave me a rush. What if I could barter this secret? Maybe I could convince mother to give me her knife for it.
+
+---
+
+But where had she gotten such a knife? So small and reflective, as if it were made of one of the silver trinkets she showed us and said were gifts from the gods. 
+
+
 
 
 ```statblock
@@ -113,8 +128,3 @@ spells:
 
 ```
 
-## Logs
-- Became consul of the [[Ashir Empire]]
-- Declared war on Aegur
-- Sent a team (originally Cheetoh's angels) to fetch the book of civilization and its containing schematics 
-- 

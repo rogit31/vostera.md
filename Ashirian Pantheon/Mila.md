@@ -10,4 +10,4 @@ While war and love can be seen as opposites, for Mila and her followers this cou
 
 ---
 
-Mila is represented in art as a tall armored woman with the hair of her grandmother, red fiery crimson. She is often seen holding a spear and a shield. She is always represented with her heart ablaze, often covering her entire left chest, sometimes extending to her whole body. Her clothes are generally black and white giving away her heritage from [[Lua]] and [[Ma'at]].
+Mila is represented in art as a tall armored woman with the hair of her grandmother, red fiery crimson. She is often seen holding a waraxe. She is usually represented with her left breast carved from her chest, revealing a constantly bleeding heart, pouring dark crimson blood. It is said that despite her unceasing hemorrhage, the eternal flame lives within her, giving her the courage, vitality and power to move forward and stay on her two feet. 

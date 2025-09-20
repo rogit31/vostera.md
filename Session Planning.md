@@ -21,6 +21,10 @@
 - Have them realize the objective of the OBS and the origin of the world specifically
 - Mount an attack on the order first, then vespera
 ## Vespera Objectives
+- Try to extract the information from the CO by threatening them
+- When they don't comply, kill her hostage 
+- Or just kill them straight up
+- 
 ## OBS Objectives
 ## Party Objectives
 

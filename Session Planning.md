@@ -34,8 +34,12 @@
 ## Party Objectives
 
 ## Scenes
-- They arrive to the last respite once again, craft all their items
-- announce the death of lavender
+- Save Khava
+- Khava and Leia reunite
+- Khava explains the most recent research
+	- The teleporter can be used on titanfall
+	- titanfall is literally titanfall
+	- 
 
 
 

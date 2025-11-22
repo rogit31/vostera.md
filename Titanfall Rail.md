@@ -1,0 +1,1 @@
+The titanfall rail is a railway that connects [[Titanfall]] to [[Avendor]]. It was built partly thanks to a Behir, clawing and burrowing its way in a controlled manner to make space for the rail. It transports Liselos, troops, foot, water, and other things to and back Titanfall. 

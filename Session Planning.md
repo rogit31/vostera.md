@@ -1,35 +1,14 @@
 # Announcements
-- Thanks to Daniel
-- Cool picture by Robyn
-
 # TODO
-- Flesh out what Phineas knew and went through, he becomes a main NPC
+
 - Finish the playlists, add theme songs for Vespera, the order, maybe some others.
-- Finish painting minis
-- What the fuck is pheonixgate?
-- How to reveal the OBS's goals (zeke's)
-- How to reveal Vespera's goals
-- Make all the items that they got on dndbeyond
-- Give Daniel the repo and instructions on what to do
-- Write down the names of all the original children
-- Lock in the specifics of the ACR
-- Phineas and Kite meet parents
-- Banbaro hoof carapace for sylril
-- Shopping on downtime
-- Research for pocket plane
-- 
+- Determine the loot that they found, including the x amount of scrolls, the necklace kite stole, and a variety of baubbles that Hemlock stole as well. 
 
 # Plot
 ## Plot Objectives 
 
-- Reveal more/all lore
-- Have them realize the objective of the OBS and the origin of the world specifically
-- Mount an attack on the order first, then vespera
 ## Vespera Objectives
-- Try to extract the information from the CO by threatening them
-- When they don't comply, kill her hostage 
-- Or just kill them straight up
-- 
+
 ## OBS Objectives
 ## Party Objectives
 
@@ -39,7 +18,6 @@
 - Khava explains the most recent research
 	- The teleporter can be used on titanfall
 	- titanfall is literally titanfall
-	- 
 
 
 
@@ -82,10 +60,5 @@ Vespera knows the tome of civilization is there and in the hands of the dragonri
 - Who in general knows about the old world? 
 - Who knows about Aylin's secret?
 - Who knows the academy's actual goals? 
-
-## Notes
-they're charging weapons hella
-got two weapons from the banbaro
-war hammer and one extra
 
 

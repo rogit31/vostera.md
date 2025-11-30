@@ -1,0 +1,1 @@
+The Shimmerpeak alps are a mountain range that separates [[Aegur]] in two. It is the backbone of its economy, providing minerals, gems, and rare ore.

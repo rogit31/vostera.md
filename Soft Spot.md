@@ -1,1 +1,0 @@
-The Soft Spot is the name given to The [[Underbelly]]'s HQ. No one knows where it is but is reached through magical portal means.

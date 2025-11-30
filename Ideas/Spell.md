@@ -1,0 +1,3 @@
+A spell is a singular activation of [[Aether|aether]], moving aether to one place (generally one's own body) to another, triggering a transformation of the shape of aether along the way. This is generally done through motions of the hand, as it is thought the hands are the most well versed at doing so. This can be aided by speech, generally ancient draconic corresponding to the intent of the spell, though this is now thought to not be strictly necessary for the majority of spells if you are a powerful enough spellcaster. 
+
+Generally this can be accomplished only by a small subset of the population on [[Vostera]], though recent surveys have found that an increasing number of people are capable of casting increasingly difficult spells. 

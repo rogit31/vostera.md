@@ -1,1 +1,0 @@
-An aetheric disturbance is an event that usually follows an unusual amount of aether being released. The surrounding geography can have unexpected characteristics such as different geology, biology, or arcane effects for years or decades to come depending on the intensity of the release of aether.

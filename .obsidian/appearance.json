@@ -1,5 +1,7 @@
 {
   "enabledCssSnippets": [
     "linelength"
-  ]
+  ],
+  "cssTheme": "Typewriter",
+  "accentColor": "#5cf57b"
 }

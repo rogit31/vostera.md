@@ -1,1 +1,0 @@
-Ancient silver dragon that protects / protected the dead body of [[The Planewalker]] on the [[Sundown Monastery]].

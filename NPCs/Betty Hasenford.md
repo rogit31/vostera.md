@@ -1,0 +1,1 @@
+Betty Hasenford is the assistant of sheriff [[Jay Forenthro]] and the mother of the mayor [[Pelias Hasenford]].

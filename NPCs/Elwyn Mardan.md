@@ -1,0 +1,6 @@
+
+Elwyn Mardan is a tiefling nobleman and part of the merchant's guild of [[Port Dalia]]. He is a very extravagant man, with an incredible collection of curios and gadgets. He lived in a large gated house in the Merchant District of [[Port Dalia]]. Elwyn was a sailor at sea before becoming captain and eventually head of a fleet of commercial ships. He dedicates his free time to collecting these interesting things from all around [[Vostera]].
+
+He assigned [[Cheetoh's Angels]] with the task to recover an artefact from the [[Port Dalia]] academy in exchange for access to [[Underbelly|the Underbelly]] He also saved [[Cheetoh's Angels]] when their mission in the [[Avendor cellars]] went awry. Following this disaster, he gave [[Cheetoh's Angels]] another mission to get information from [[Titanfall]]. 
+
+He now cooperates with [[Cheetoh's Angels]] on occasion, and most recently bought a sample of the technology they brought back from [[Fool's Gold]], the aetheric rifle and vest to be examined by his friends to see if they can be recreated or otherwise.

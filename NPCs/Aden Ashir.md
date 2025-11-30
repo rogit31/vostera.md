@@ -1,0 +1,1 @@
+First consul of the [[Ashir Empire]].

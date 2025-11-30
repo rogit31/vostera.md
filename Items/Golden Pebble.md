@@ -1,0 +1,1 @@
+The insignia that [[Academy Arcanum]] graduates carry with them for identification purposes. Also commonly known as the pebble.

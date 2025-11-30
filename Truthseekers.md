@@ -1,2 +1,0 @@
-
-Truthseekers are special followers of [[Vero]]'s church, who have dedicated their lives in the pursuit of truth. Such followers present a third eye in the middle of their forehead, symbolizing their connection with the all-knowing, and the all-seeing Vero.

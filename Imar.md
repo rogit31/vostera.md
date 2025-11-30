@@ -1,1 +1,0 @@
-Imar is the southernmost continent in [[Vostera]]. It used to inhabit a collection of different political entities including the [[Amelian Kingdom]] before being absorbed by the [[Ashir Empire]] in the [[One Year War]]. 

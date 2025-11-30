@@ -1,0 +1,1 @@
+Titans were massive creatures of nature, mineral aether and wild magic roaming the lands of Vostera before genesis. They were incapable of communicating with each other or reproducing, and as such started fighting or went dormant out of boredom according to the myth. Now, only the traces of their wars and their bodies remain on Vostera.

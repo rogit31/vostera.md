@@ -1,0 +1,1 @@
+Cheetoh's Angels is the name given to the group of adventurers composed of [[Hemlock]], [[Sylril Ravi]], [[Meg]], [[Kite Goldclaw]], [[Dorbledum]] and previously, [[Bor]], [[Lucina Aemon]], and [[Vannan]].

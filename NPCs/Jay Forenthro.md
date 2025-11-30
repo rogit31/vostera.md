@@ -1,0 +1,1 @@
+Jay Forenthro was the sheriff and the entirety of the police force of the [[Afeer]] village. He was murdered and his offices were torched on fire by the [[Devumal Twins]] in their quest to find and steal the [[tripal]] stone that fell into the sheriff's lap. His brother, [[Knorr Forenthro]] was one of the player characters and a member of [[Cheetoh's Angels]].

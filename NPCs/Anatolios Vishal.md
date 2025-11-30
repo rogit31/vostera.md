@@ -1,0 +1,1 @@
+Anatolios Vishal is the current rank number one thief based off of the Grand Theft-Off board at the [[Underbelly]].

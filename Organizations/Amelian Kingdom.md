@@ -1,0 +1,1 @@
+The Amelian Kingdom was a kingdom situated to the south of [[Imar]]. They were absorbed into the empire after the [[One Year War]].

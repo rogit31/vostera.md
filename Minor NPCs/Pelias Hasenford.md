@@ -1,1 +1,0 @@
-Son of [[Betty Hasenford]] and mayor of [[Afeer]] village. He is a human fisherman and speaks in a southern accent. Looks about 50, has completely gray hair, leathery damaged skin and smokes a pipe.

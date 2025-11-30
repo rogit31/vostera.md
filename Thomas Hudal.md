@@ -1,1 +1,0 @@
-Current ruling emperor of the [[Ashir Empire]].

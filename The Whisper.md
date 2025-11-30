@@ -1,1 +1,0 @@
-Disciples of  [[Vero]], the marked become sensitive to the whisper, a telepathic connection to other disciples of [[Vero]]. It is a skill that can be improved with time and practice. [[Hemlock]] discovers this skill after his encounter with [[Vero]] and his deal with the god of knowledge.

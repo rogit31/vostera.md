@@ -1,1 +1,0 @@
-The Fisherman's Repose is a relatively fancy inn facing the sea in the port district of [[Port Dalia]]. Owned by [[Morcant Amine]].

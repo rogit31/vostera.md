@@ -3,13 +3,11 @@ The Tidecaller, Lua, is the goddess of the moon, of the tides, of birth, of fert
 > "Whereas [[Sola]] is gold; Lua is silver, and [[Layla]] is obsidian."
 
 ## Origin
-
 ---
 
 According to the creation myth, she was born from [[Sola|The Sunmother, Sola]] at the same time as the [[Titans]] and her sister [[Layla]].
 
 ## Relationships
-
 ---
 
 Lua is the daughter of [[Sola]] and they are as a pair perceived as two sides of the same coin.
@@ -17,7 +15,6 @@ Lua is the daughter of [[Sola]] and they are as a pair perceived as two sides o
 Lua is also the sister to [[Layla]] the goddess of the night and of death. They are described as being in an eternal struggle for [[Vostera]]'s skies during nighttime, creating the moon cycle.
 
 ## Lua's Cult
-
 ---
 
 The Tidecaller has a significant following all over Vostera, called the [[Silver Moon Church]]. The Silver Moon is most present on coastal cities, where the tides and the seas can hold strong cultural significance over the habitants, but remains worshipped even in rural landlocked areas of the [[Ashir Empire]]. The worship of Lua is generally tied to ideas of cyclical change, the cycle of life, storms, navigation, the moon, the seas, and of protection at night, in the absence of Sola's light. The Silver Moon has churches across [[Vostera]], and many of them function as birth centers and small nurseries on top of being places of worship and rest.

@@ -1,0 +1,1 @@
+Roshan Hunfrid was [[The Planewalker]]'s husband. He was a researcher on [[Titans|titan]] biology during the titanic age. He was murdered for his findings.

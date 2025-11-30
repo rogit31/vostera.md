@@ -1,1 +1,0 @@
-Headmaster Vonn is the headmaster of the [[Port Dalia]] [[Academy Arcanum|Academy]]. He banned one of the previous PCs from the [[Academy Arcanum|Academy]] grounds. 

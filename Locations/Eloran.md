@@ -1,0 +1,1 @@
+Continent that is birthplace to the [[Ashir Empire]]. Features a diverse ecosystem including a mountain chain that splits into a fork creating the [[Ashir Valley|Ashir valley]], jungles at its equator, the [[Mogu desert]], and [[Titanfall]]. 

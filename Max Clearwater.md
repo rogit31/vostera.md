@@ -1,1 +1,0 @@
-Green male eccentric goblin with a raspy voice and patchy leather armor. Loves blood, action, gold, and parties. Is a hedonist at heart. Owner of the [[Last Respite]].

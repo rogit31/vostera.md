@@ -1,1 +1,0 @@
-After the [[Titanic Wars]] it is said [[Sola]] went dormant for a thousand years out of disappointment and anger, causing [[Vostera]] to go through a millennia-long winter.

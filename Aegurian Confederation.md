@@ -1,1 +1,0 @@
-The Aegurian Confederation is a confederation of previously independent city states on the continent of [[Aegur]] who assembled partly in face of rising external pressure from both [[Kyrenia]] and the [[Ashir Empire]].

@@ -1,1 +1,0 @@
-[[Bor]]'s talking, conscious horse. Also dubbed as his son. Currently has three rings, one of them cursed, a bunch of books about magic and draconic and alchemy, and is an official member of the hunters guild in [[Padena]]. 

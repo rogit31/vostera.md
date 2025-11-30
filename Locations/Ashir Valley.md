@@ -1,0 +1,1 @@
+Area in [[Eloran]] and the [[Ashir Empire]] famous for its rich agriculture and culture, most notably wine, dry meats and cheese. Is the birthplace of the [[Ashir Empire]] and [[Avendor]]. 

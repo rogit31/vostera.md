@@ -1,1 +1,0 @@
-A [[Truthseekers|truthseeker]] of [[Vero]]'s church. Ex-[[Ashir Empire|Ashirian solider]]. Has a very high-pitched voice that kinda sounds like Morty from Rick and Morty. Divulged secret information to [[Cheetoh's Angels]] about the location of a high level spell scroll, specifically an antimagic field spell scroll. 

@@ -1,1 +1,0 @@
-Aetherology is the study of [[Aether]] and [[Aetherates]]. [[The Planewalker]] was an aetherology academic. 

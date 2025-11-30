@@ -1,1 +1,0 @@
-Julius' bed and breakfast is an inn in [[Port Dalia]]'s market district. It is three stories high and is filled with paintings made by the owner, [[Julius Ironbo]]. The inn also has a secret basement used for private meetings.

@@ -1,1 +1,0 @@
-Adam Fawcett is the high priest of the [[Silver Moon Church]] in [[Adenville]]. He was kind enough to restore hemlock to his original pre-cursed young state for only the cost of the component used for greater restoration.

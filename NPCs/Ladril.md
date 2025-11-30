@@ -1,0 +1,1 @@
+Ladril is a half-elven woman with a very strict personality and appearance that escorted [[Cheetoh's Angels]] on their way to [[Kimbar]] with the silver ore they were tasked to escort. You learned she is in the [[Ashir Empire]] because her daughter fled here after a particularly bad fight and has gotten financially stuck in this situation.

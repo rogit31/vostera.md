@@ -1,1 +1,0 @@
-Edwin is a balding older round man with an alcohol problem at the head of the carriage going from the [[Eloran Mines]] to [[Kimbar]]. He is very vocal about his opinions and is generally an old man screaming at the sky. Apparently allergic to dragonborns.

@@ -1,0 +1,2 @@
+Ancient silver dragon that protects / protected the dead body of [[The Planewalker]] on the [[Sundown Monastery]].
+Killed by [[Vespera Argent]] to deactivate the permafreeze spell affecting [[The Planewalker]]'s body.

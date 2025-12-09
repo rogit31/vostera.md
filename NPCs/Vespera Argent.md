@@ -1,4 +1,4 @@
-Vespera is [[The Planewalker]]'s daughter, and the [[Ashir Empire]]'s elected consul. Sister of [[Zeke Ashir]],  [[Nola Ashir]], and [[Uuno Stalwhite]].
+ Vespera is [[The Planewalker]]'s daughter, and the [[Ashir Empire]]'s elected consul. Sister of [[Zeke Ashir]],  [[Nola Ashir]], and [[Uuno Stalwhite]].
 
 ## Roles and titles
 ---
@@ -8,7 +8,7 @@ Vespera Argent is the head of the peacekeeping division of the [[Academy Arcanum
 ---
 The re-emergence of aether is a poison. Without the titans to properly collect and recycle aether, it accumulates and festers, eventually leading to disease. Soon titanfall will spread. The people might be able to co-ordinate their increased aetheric capabilities to fend off the disease and stay peaceful, but everything Vespera has experienced until now points to the contrary. She will guide the transition. The titans cannot be brought back, but until then, aether can be harvested, collected. Pylons made of tripal can conduct large amounts of aether into one facility, where aether could be safely stored, recycled or manufactured into useful items, made to be more productive. And also, give Vespera and the Ashir empire exclusive control over aether. The re-emergence of aether gets to be controlled, and the empire grows forever stronger. This however requires that the empire gets complete control over the five continents. Until then, there is no stopping. 
 
-
+ 
 ## Objectives
 ---
 Now that her unit has been defeated, she will go towards her second option towards retrieving the information in the tome of civilization. 

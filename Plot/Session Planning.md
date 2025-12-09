@@ -2,9 +2,15 @@
 # TODO
 
 - Finish the playlists, add theme songs for Vespera, the order, maybe some others.
-- Determine the loot that they found, including the x amount of scrolls, the necklace kite stole, and a variety of baubbles that Hemlock stole as well. 
 
 # Story beats
+
+## The combat continues
+
+- Retreat, speech
+- Remember to accentuate mila's thing
+- Johnny arrives
+- The combat continues while the rest explore
 
 ## Hemlock's dream
 
@@ -23,6 +29,12 @@ Perhaps even better would be to put him in a situation where his moral compass i
 ## Kite's letter
 A letter to kite from her ex mayhaps!
 
+
+## Loot Acquired:
+- Amulet that Kite got is an amulet of dexterity
+- Hemlock got an all or nothing
+- Druid's earrings
+- The random number of scrolls that Hemlock got
 ## Character Moments
 ### Hemlock
 Don't know what to do with his mother

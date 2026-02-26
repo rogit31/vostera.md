@@ -14,7 +14,7 @@ That are mostly items from the [[Titanic Age]].
 ## Railway station
 ## Labs 
 
-Includes dry and wet labs, some are research on the old wolrd, some are surgery and medical labs where the cellmates are experimented on
+Includes dry and wet labs, some are research on the old world, some are surgery and medical labs where the cellmates are experimented on
  
 ## Temporary barracks
 

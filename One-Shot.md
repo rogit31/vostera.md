@@ -1,15 +1,42 @@
-# Description
+# French
+
+## Description
+
+Cou du Cheuvreil, un passage entre des montagnes alpines entre deux royaumes, se situe le village d'Emril. Emril est un village de passage pour la majorite, mais aussi un oasis dans le froid alpin des montagnes de la chaine de... . Ici, les artisans, les chasseurs, pecheurs et les bergers, vendent leur biens, et les voyagers s'arettent pour trouver repit du froid grincant.
+
+## NPC 1 
+
+Une vieille femme du nom de Evangeline a du mal a passer a son ane de l'autre cote d'un arbre qui est tombe sur rote. Si ils l'aident, elle leur donne un item magique? Elle leur previent aussi que le village en ce moment a beacoup de disparitions, elle dit que le froid en est la cause. 
+
+## Emril
+
+- La bouilloure (taverne)
+- Taniere du loup (tanniere)
+- Provisions d'Albert
+
+Vous remarquez immediatement que la temperature commence a monter des que vous montez la colline qui mene vers le village. Le village est guarde d'un cote par les soldats d'un royaume, et de l'autre de l'autre cote. Les guardes vous demandent votre nom et prennent une description, ils essaient d'avoir plus de controle sur les disparus. 
 
 
+# English
+
+
+## Description
+
+In between two kingdoms, the village of Silverpass sits as an oasis against the brutal cold. Warmer than its surroundings by a noticeable amount, it welcomes peoples from both kingdoms, and is for most a stop on the way, for others it is where they sell the wool, wood, and ore they sourced from nearby. The route there is said to be rife with danger, from bandits to risky weather. Most travel in bands, with either a hired hand amongst them or at least a person wielding a weapon, and a local guiding them through the terrain and weather. Your band travels to Silverpass for \[REASONS], and you hear rumours on your path of mysterious disappearances affecting the villagers of Silvperass...
+
+Will you save the villagers?
 # Entrance
 
-It is said that a demon has been sealed in the dungeon near the small village of Silverpass, a village on a trading route in between larger towns of different kingdoms. Right at the border in between two kingdoms, it welcomes peoples of both, and is for most a stop on the way, for others it is where they sell the wool, wood, and ore they sourced from nearby. The route there is said to be rife with danger, from bandits to risky weather. Most travel in bands, with either a hired hand amongst them or at least a person wielding a weapon, and a local guiding them through the terrain and weather. Nearby Silverpass, an ancient temple lays, left alone by superstition. Rumors say it has been claiming more and more victims recently... 
+An old lady is stuck on the road out of Silverpass, a log of wood blocks her and her mule. If the heroes help them, she gives them an item and a warning including information about the dangers to come. 
 
 # Puzzle
 
-Statue at the front with some writing at the bottom: 
+The entrance to the cult of Mila is protected with a word written in blood onto a plaque that sits at the bottom of a statue of Mila. The plaque has no engravings, which the heroes can notice. The password to be written is 
 
-The everburning heart bleeds and burns. 
+A poem reads: 
+ > Carnal body's sweet liquor
+ > Vein's water and wine
+ > 
 # Setback
 
 
@@ -75,3 +102,4 @@ spells:
 
 ```
 
+16

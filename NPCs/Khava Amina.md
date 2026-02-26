@@ -6,4 +6,6 @@ Khava is in charge of handling items to be traded or bought, packaging them and 
 
 Khava is supposedly involved in a romantic relationship with [[Leia Rosenthorne]].
 
-Currently at the residing in the [[Clarit Hill Residences]], near a store called the [[Fancy Scarab]].
+~~Currently at the residing in the [[Clarit Hill Residences]], near a store called the [[Fancy Scarab]].~~
+
+

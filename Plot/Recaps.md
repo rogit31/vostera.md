@@ -1,4 +1,14 @@
 
+## December 8th
+
+- Prison break. 
+- Gets a mustache
+- Bunch of forbidden books, scrolls, and some extra doodads
+- Sylril eats a contender of Mila's, becomes immune to fire damage
+- Free a bunch of prisoners including Greg Smith, killed Xavier Hudal
+- Hemlock saw a vision of [[Roshan Hunfrid]] and [[The Planewalker]]
+- Elywn agreed to transport the tephia gang to aegur in exchange of another deal
+
 ## November 24th
 
 Last session, you guys started infiltrating the Avendor cellars, by disguising yourselves as ashirian guards with the seeming spell. You slipped into the cellars through the latrine, and Meg started chatting with Roland, the wholesome captain working here, who started giving her some advice after rolling a natural twenty on a deception check. In the meantime, Hemlock and Kite started a food fight as a distraction. You managed to convince one of the other guards there to include the Peacekeepers in that fight as well, which you succeeded. You then tried convincing the guard who works at the desk to let you through, failed, then one shot him. This started a sequence where the guards and peacekeepers are slowly trying to asses the situation, stop you, and call for reinforcements, however Hemlock and Sylril successfully dissuade or kill the people there while the rest of the group starts looking for the scroll. After some searching, you find the personal diary of Vespera, as well as three rooms. One of them containing an arsenal reserve of scrolls, one containing a specific set of artefacts, and a third containing a small library. And that's more or less where we left off...

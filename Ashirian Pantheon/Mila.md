@@ -1,4 +1,4 @@
-Mila is the daughter of [[Ma'at]] and [[Lua]]. She is the goddess of love, war, blood, fire, sex, murder, passion and incineration. 
+Mila is the daughter of [[Ma'at]] and [[Lua]]. She is the goddess of love, war, blood, fire, sex, murder, passion, consumption and incineration. 
 
 ## Philosophy
 ---
@@ -18,3 +18,14 @@ When the faithful go to war, they pray to Mila, so that they can give them the s
 
 Mila is represented in art as a tall armored woman with the hair of her grandmother, red fiery crimson. She is often seen holding a waraxe. She is usually represented with her left breast carved from her chest, revealing a constantly bleeding heart, pouring boiling, dark crimson blood. It is said that despite her unceasing hemorrhage, the eternal flame that lives within her gives her the courage, vitality and power to move forward and stay on her two feet. 
 
+
+## Champions
+---
+
+Champions of Mila are special entities that represent Mila's will on Vostera. They are exceptionally skilled servants of the eternal flame, and while they technically have a will of their own, Mila takes only the most devout soldiers under consideration. To be considered for championship, one must kill and consume the heart of another of Mila's chosen, most often denoted by an affinity for small quantities of fire, generally sparking from the tip of the ear. One must then discuss with Mila and pronounce the following pact: 
+
+ > Carnal body's sweet liquor
+ > Vein's water and wine
+ > To the eternal flame divine
+ > I cede the flaming ichor
+ > Of mine

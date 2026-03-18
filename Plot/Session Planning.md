@@ -1,53 +1,27 @@
 # Announcements
+
+- Fiona is now officially joining us! Yippee
+- Help her in combat pls
 # TODO
 
 - Finish the playlists, add theme songs for Vespera, the order, maybe some others.
 
 # Story beats
 
-### Elwyn brings back the gang
-
-- The gang is composed of [[Raoul Ragimund]], [[Khava Amina]], [[Magnus]], [[Jone Alberwood]] and [[John Alberwood]].
-- They piece things together to formulate a plan, a counter-attack
-- 
-
-
-## Sylril's dream
-
-This time, Sylril is faced with the goddess for a conversation about what it means to be champion. 
-- The fateweaver will not take him
-- He is made to make [[Mila#Champions|the pact]]
-- Once he dies that is all
-- He is given the pheonix's tooth
 
 ## Hemlock's vision
-
-### Vespera's Meeting
-
-To set up the whole episode, could have a moment where he peers through the eyes of a shapeshifted truthseeker, who then gets caught
-Out of this meeting, he gets: 
-- A new timeline (a month?) for the teleportation machine to be built
-- And the invasion to commence
 
 ### Vespera's Coup
 
 She invades the church of [[Vero]], in order to kill [[Edward Buldany]], and round up the rest of the church of Vero. The symbol of the tri tree appears again.
+ 
+## Avendor
 
+They can explore Avendor and snoop around as much as they like, I don't really plan on doing anything about it
 
-## The choice
-
-With the rest of the gang, the NPCs indicate that the best moment to strike is when the invasion itself commences. Before then, they have a month to prepare. They can either
-
-- Get stronger materially, by diving in to a dungeon hunting for relics
-- Get stronger intellectually, by finding out more about the world at Titanfall
-- Get stronger socially, by making friends in the right places and doing politics
-
-The choices have variables amounts of purely combat encounters but will lead the story. Or a secret fourth option if they have it. 
-
-## Some kind of combat
-
-I feel like I need to include a little bit of combat at the very least, even if it's short lived, just because Daniel is here. Idk maybe I can ask him. 
-
+## The Gala
+- look at notes on phone
+- 
 ## Kite's letter
 A letter to kite from her ex mayhaps!
 

@@ -109,3 +109,20 @@ Hemlock dreams about [[The Planewalker|Aylin Ashir]] and [[Roshan Hunfrid]] as a
 - Roshan and Aylin argue about whether or not he should publish his results. 
 - Roshan thinks that people deserve to know the Titans are conscious, sentient and capable of pain.
 - Aylin thinks he should make the selfish choice, for the sake of their safety. 
+
+
+
+## Gala
+
+Marrying in betweeen kyrenian prince and aegurian confederation daughter? 
+Nick Chowens
+
+
+## Gathering allies
+
+Max clearwater
+from churches truthseekers/mila
+dungeon
+
+
+madoka magica music

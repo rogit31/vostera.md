@@ -1,6 +1,4 @@
 {
-  "alwaysUpdateLinks": true,
-  "readableLineLength": true,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",

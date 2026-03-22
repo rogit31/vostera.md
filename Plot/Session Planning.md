@@ -8,6 +8,7 @@
 
 # Story beats
 
+- Vero's church being taken down by force should be big news everywhere effectively
 
 ## Hemlock's vision
 
@@ -20,8 +21,54 @@ She invades the church of [[Vero]], in order to kill [[Edward Buldany]], and rou
 They can explore Avendor and snoop around as much as they like, I don't really plan on doing anything about it
 
 ## The Gala
-- look at notes on phone
-- 
+### Characters
+#### [[Jennifer Oren]]
+ - Highly determined to make this partnership work as a way of securing additional defenses for the aegurian confederation
+
+#### [[Elandorr Kyren]]
+- Elven prince of the the [[Kyrenia]]n kingdom, is more interested in partying and is extremely insecure and loves to flaunt his wealth, though is
+
+#### Alas Kyren
+- Elandorr's father. The king's brother.
+- Main foreign diplomat that will be negotiating an agreement with the Orens.
+- Strict, deadpan and literal
+
+#### Elmer Oren
+- Jennifer's father
+- Main party to be involved with the negotiations with the Kyrens, and to convince them to join the war effort
+- More of a smooth talker, a kind parent, but cunning
+
+
+
+### War plot
+
+The Kyrens want to consolidate their position in Aegur to give them heavier access to natural resources before the war starts, and to keep a larger part of the pie when the war does end
+
+The Orens want to involve the Kyrens in the war effort, and are adamant about not ffing. They believe that despite a most likely inevitable loss, Aegur can stand strong and push back against the imperial invasion to at least give themselves a chance, and that freedom from imperialism is worth fighting to the death for. 
+
+There's an anti war effort going on, and their objective is to disrupt negotiations entirely so that Aegur is forced to surrender. 
+
+#### Desmond Amaru
+
+Anti-war assassin that will attempt to murder either Elmer Oren or Elandorr Kyren to disrupt negotiations.
+
+
+### Romance Plot
+
+#### RomAn Ayesha
+
+Brooding, dark and cynical long haired tiefling man with tattoos. Musician by trade. Is interested in Char2
+
+#### Briet Dorianna
+
+NB elven person with a buzz cut, very sharp features and many piercings and gold ornaments. Is reserved, curt and polite. Is interested in char3
+
+#### Mina Konstanty
+
+Tabaxi woman with dark panther-ish features, a strong muscular back revealed by a purple dress. Is outgoing, loud and flirty. Is interested in char1. 
+
+
+
 ## Kite's letter
 A letter to kite from her ex mayhaps!
 

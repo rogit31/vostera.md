@@ -1,3 +1,16 @@
+## March 18th
+
+Started with a vision once again, of Hemlock peaking into the perception of [[Edward Buldany]], interrogated by [[Vespera Argent]] on the cause of the last cellar break-out, who coyly admitted it to being you guys. After which he was promptly disintegrated. You guys then teleported to [[Avendor]], after which you started looking into how you could rally the troops to your cause.
+
+- Professor Allen Whitgar told you to fuck off after you joked around about his life being in danger
+- Vero's church burn down and imprisonment
+- Passionate speech by Hemlock at the Ashirian barracks
+- Drama club drama, and four members recruited from it
+- Flirting in between Sylril and between the priest at Mila's church
+- Mila's head priestess recruited
+- Decided saving Vero's was a trap, went back home
+- 
+
 ## February 26th
 
 - Started with a vision, of vespera catching a polymorphed truth-seeker snooping on a war meeting

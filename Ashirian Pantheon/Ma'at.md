@@ -19,6 +19,13 @@ The cult of the fateweaver is mostly compromised of people obsessed with death a
 
 The cult of Ma'at is quite a bit smaller than many others, since generally Ma'at is seen as a god in direct competition with the goals of most mortals, however he is not seen as evil, merely a messenger or carrier of what must come.
 
-In some cases, some cults of Ma'at like to take a more prophetic approach, and attempt to read the webs of fate of other people, but it is generally understood that such a feat is only possible by the fateweaver himself, not by any mere mortal. 
-
 Other people who come to the Fateweaver for guidance are people who may fear their own mortality, who want to connect with their loved ones who may be in Ma'at's hands already, or who seek guidance with their fate.
+
+There are a very specific, rare few followers of Ma'at who go significantly further in their devotion however. It is thought that the venom of the silver-legged spider, when ingested in specific doses is just strong enough to cause premonitory hallucinations without killing the person ingesting it. This ritual is known as the bite. The bite is extraordinarily dangerous and without fail causes the person ingesting it to develop partial or total blindness. These devoted followers are sometimes called oracles. Despite the premonitory nature of the bite, oracles rarely perform oracular tasks outside of the bite as it is entirely dependent on finding, extracting and consuming the venom of the silver-legged spider, which is quite rare and usually only found in the shimmer-peak alps in [[Aegur]]. It is possible however to inquire about one's future (in particular one's death) provided they have the venom, and are willing to pay a hefty sum to an oracle so that they may risk their life to bite again.
+
+Oracles are generally seen as trusted figures when it comes to talking about death, and are often funeral directors, graveyard keepers, and grief counselors in one. 
+
+## Appearances
+---
+
+Ma'at has appeared at the deaths of characters in this campaign, spinning them into his own weave before lifting their soul out of their mortal bodies and to the unknown beyond. Some speculate that Ma'at is the ultimate scavenger, cleaning up the soul and [[aether]] of the dead. 

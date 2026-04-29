@@ -1,7 +1,8 @@
 # Announcements
 
-- Fiona is now officially joining us! Yippee
-- Help her in combat pls
+- Acacia is now joining us
+- New rules: stealth rolls or whatever they're called
+- New session planning method
 # TODO
 
 - Finish the playlists, add theme songs for Vespera, the order, maybe some others.
@@ -10,33 +11,10 @@
 
 - Vero's church being taken down by force should be big news everywhere effectively
 
-## Hemlock's vision
 
-### Vespera's Coup
-
-She invades the church of [[Vero]], in order to kill [[Edward Buldany]], and round up the rest of the church of Vero. The symbol of the tri tree appears again.
- 
-## Avendor
-
-They can explore Avendor and snoop around as much as they like, I don't really plan on doing anything about it
-
-## The Gala
+## [[The Gala]]
 ### Characters
-#### [[Jennifer Oren]]
- - Highly determined to make this partnership work as a way of securing additional defenses for the aegurian confederation
 
-#### [[Elandorr Kyren]]
-- Elven prince of the the [[Kyrenia]]n kingdom, is more interested in partying and is extremely insecure and loves to flaunt his wealth, though is
-
-#### Alas Kyren
-- Elandorr's father. The king's brother.
-- Main foreign diplomat that will be negotiating an agreement with the Orens.
-- Strict, deadpan and literal
-
-#### Elmer Oren
-- Jennifer's father
-- Main party to be involved with the negotiations with the Kyrens, and to convince them to join the war effort
-- More of a smooth talker, a kind parent, but cunning
 
 
 
@@ -55,7 +33,7 @@ Anti-war assassin that will attempt to murder either Elmer Oren or Elandorr Kyre
 
 ### Romance Plot
 
-#### RomAn Ayesha
+#### Roman Ayesha
 
 Brooding, dark and cynical long haired tiefling man with tattoos. Musician by trade. Is interested in Char2
 

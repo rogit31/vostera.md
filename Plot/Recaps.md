@@ -9,7 +9,6 @@ Started with a vision once again, of Hemlock peaking into the perception of [[Ed
 - Flirting in between Sylril and between the priest at Mila's church
 - Mila's head priestess recruited
 - Decided saving Vero's was a trap, went back home
-- 
 
 ## February 26th
 

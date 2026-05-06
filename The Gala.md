@@ -21,6 +21,11 @@ The gala as an event is a political intrigue with social and combat encounters t
 - Main party to be involved with the negotiations with the Kyrens, and to convince them to join the war effort
 - More of a smooth talker, a kind parent, but cunning
 
+Tyler and Andre
+
+Fainor
+Kynen Ennore
+13 days
 ### Throuple
 
 #### Ron Roughglory
@@ -34,7 +39,15 @@ Singer and songwriter by profession from Nagan. Forward and stoic. Helplessly in
 
 #### Yellane Gidunya
 
-#### Cyran Wranfir
+Human woman with blond hair and amber eyes and emerald colored dress and pink gems. High council of the aegurian confederation.
+
+#### Briet Dorianna
+
+NB elven person with a buzz cut, very sharp features and many piercings and gold ornaments. Is reserved, curt and polite. Is more interested in being pursued rather than any one particular person.
+
+#### Varrox Biran
+
+Tyler and Andre
 
 
 ## Story beats/outline
@@ -46,3 +59,13 @@ Characters are introduced to the party through announcements and description
 Elmer Oren gives a speech about the future of Aegur and how happy he is about this marriage.
 Players making an insight check will now he is being only partially honest, in fact he does not like Elandorr much at all but needs the bond with the Kyrenn family to secure the future of the Aegurian Confederation.
 
+
+## Kidnapping
+
+The prince elandorr is kidnapped through the tunnels at the bottom of the facility, where he is being kindapped by 4x
+
+![[Pasted image 20260428182218.png]]
+
+![[Pasted image 20260428182403.png]]
+
+![[Pasted image 20260428182102.png]]

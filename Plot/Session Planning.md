@@ -37,9 +37,7 @@ Anti-war assassin that will attempt to murder either Elmer Oren or Elandorr Kyre
 
 Brooding, dark and cynical long haired tiefling man with tattoos. Musician by trade. Is interested in Char2
 
-#### Briet Dorianna
 
-NB elven person with a buzz cut, very sharp features and many piercings and gold ornaments. Is reserved, curt and polite. Is interested in char3
 
 #### Mina Konstanty
 

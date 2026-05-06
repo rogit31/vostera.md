@@ -1,4 +1,4 @@
- Vespera is [[The Planewalker]]'s daughter, and the [[Ashir Empire]]'s elected consul. Sister of [[Zeke Ashir]],  [[Nola Ashir]], and [[Uuno Stalwhite]].
+ Vespera is [[The Planewalker]]'s daughter, full elf and the [[Ashir Empire]]'s elected consul. Sister of [[Zeke Ashir]],  [[Nola Ashir]], and [[Uuno Stalwhite]].
 
 ## Roles and titles
 ---

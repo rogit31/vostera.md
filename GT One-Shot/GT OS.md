@@ -26,6 +26,8 @@ Some kind of book that when killed next to it, your memories or something activa
 
 ### Muhammad Ali
 
+### Gary Kasparov
+
 ### Richard Feynman
 
 ### Phaltos Rockbearer

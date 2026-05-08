@@ -8,4 +8,4 @@ this with its ability to poison foes upon contact. Rathian, like her mate, can g
 # Statblock
 
 ![[Rathian.png]]
-![[Assets/Roar 17.mp3]]
+![[Roar 17.mp3]]

@@ -28,4 +28,4 @@ Oracles are generally seen as trusted figures when it comes to talking about dea
 ## Appearances
 ---
 
-Ma'at has appeared at the deaths of characters in this campaign, spinning them into his own weave before lifting their soul out of their mortal bodies and to the unknown beyond. Some speculate that Ma'at is the ultimate scavenger, cleaning up the soul and [[aether]] of the dead. 
+Ma'at has appeared at the deaths of characters in this campaign, spinning them into his own weave before lifting their soul out of their mortal bodies and to the unknown beyond. Some speculate that Ma'at is the ultimate scavenger, cleaning up the soul and [[Aether]] of the dead. 

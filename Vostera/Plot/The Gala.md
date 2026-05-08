@@ -11,12 +11,12 @@ The gala as an event is a political intrigue with social and combat encounters t
 - Sheltered royal
 - He hires professionals to kidnap him away from the wedding 
 
-#### Alas Kyren
+#### [[Alas Kyren]]
 - Elandorr's father. The king's brother.
 - Main foreign diplomat that will be negotiating an agreement with the Orens.
 - Strict, deadpan and literal
 
-#### Elmer Oren
+#### [[Elmer Oren]]
 - Jennifer's father
 - Main party to be involved with the negotiations with the Kyrens, and to convince them to join the war effort
 - More of a smooth talker, a kind parent, but cunning

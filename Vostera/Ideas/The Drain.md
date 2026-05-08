@@ -1,4 +1,4 @@
-The Drain is a condition that affects creatures that breathe in charged [[tripal]] dust present in and around [[Titanfall]]
+The Drain is a condition that affects creatures that breathe in charged [[Tripal]] dust present in and around [[Titanfall]]
 
   
 At the end of a long rest in an affected area, players must make a CON save of 10+ _number of consecutive days in affected space_. On a failure, player characters feel tired, nauseous and disoriented at first. As the drain progresses, characters look noticeably weaker and paler. Confusion and paranoia become symptoms. Eventually, if the drain settles for too long, the effects become untenable and any living creature dies. Characters suffer the following effects:

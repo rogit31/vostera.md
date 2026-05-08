@@ -1,4 +1,4 @@
-The Titanfall Research Facilities are a group of hidden buildings located in the crater of [[Titanfall]] dedicated to the research of the titanfall crater, the crouching [[tripal]] titan, tripal dust and tripal itself. It also serves as a more general secret research facility for developing weapons of mass destructions far away from prying eyes.
+The Titanfall Research Facilities are a group of hidden buildings located in the crater of [[Titanfall]] dedicated to the research of the titanfall crater, the crouching [[Tripal]] titan, tripal dust and tripal itself. It also serves as a more general secret research facility for developing weapons of mass destructions far away from prying eyes.
 
 ## Approaching the TRF
 

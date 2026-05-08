@@ -1,0 +1,1 @@
+Priestess and low level spellcaster, full elven that welcomed [[Cheetoh's Angels]] to the [[Whispering Grove]] after [[The Gala]]. Speaks with a "siri"-like voice. 

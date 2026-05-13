@@ -1,0 +1,1 @@
+The Losdraeg Kingdom is a monarchical ethno-state that occupies the northern part of the continent of Taldatrica. It is almost entirely inhabited by dwarves. 

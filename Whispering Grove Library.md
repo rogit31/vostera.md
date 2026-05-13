@@ -1,0 +1,96 @@
+The Whispering Grove Library is a library located in the [[Whispering Grove]] that contains a wealth of information untouched by the revisionism of the [[Ashir Empire]]. 
+
+# Books of Relevance
+
+The whispering grove library contains a wealth of different books of interest to the party. 
+
+## On the Origin of Spells
+
+A book written by one of the original children, [[Socha Adami]], that explains in great detail the formation of the first spells. From the point of view from one of the original children, she explains how in the original ashirian valley commune, at first no spellcasting of any kind existed. For decades, they were blind to the existence of aether in its entirety. It reads:
+
+
+### Introduction
+
+Sudden changes to the world we knew suddenly started with the death of my mother, the planewalker. Half of the commune had left to explore the great unknowns, but the ones who remained witnessed [[Nola Ashir]] rise as the first spellcaster. A day after Aylin's passing, I walked in front of Nola's hut and noticed a soft glowing light through a crack in the wood. Thinking she was reading or writing by candlelight, and that she could use some consoling in that moment, I peeked through the crack to check whether she was decent before entering. What I saw was a woman intensely staring at her index finger. Even stranger however, is that the source of light I thought was a candle was the aforementioned finger. I entered the room at which she gasped, and tried to hide her finger like a naughty child of sorts. In the conversation that followed, she showed me that with a little bit of focus and energy, she could produce a faint, soft yellowish glow from the tip of her index finger. She told me this was called a spell. I asked her whether I was also capable of doing this and she shrugged, telling me that Aylin said it was apparently only Aylin's direct descendants that would be capable of such feats. She made me promise to keep it a secret. Nola and I were at the time quite close, so I abided.
+
+Over the weeks that came after Aylin's death, the light she could produce slowly grew stronger. After two weeks it became as bright as a candle, then after a year became as bright as the sun. It wasn't just the production of light that she got better at however, she also expanded the ways she manifested her spells. It only took her two years to expand her repertoire from light to invisible kinetic force capable of knocking an owlbear on its back. 
+
+Nola baptized many of the terms we use today. I suspect that most of this knowledge in fact came from Aylin, but she took credit for most of it regardless. She called the imperceptible energy that fueled such phenomenon aether. She called the resulting effect aether had on the world when used, a spell. She called the process of transforming it transmutation. She called the action of releasing such a transmutation casting. This book will go into details about how this process likely functions. This is based on information taken from Nola, Aylin, combined with my observations of the natural world around us. 
+
+Two years after Nola had shown me her first spell, she had become quite the accomplished spellcaster, and had successfully kept it a secret from everyone besides myself. De facto already the commune leader after Aylin's death, her position in power was only strengthened after revealing her powers to the rest of the commune. She heavily implied that her powers were some sort of divine blood gift, which I knew for a fact that she didn't fully believe. The others however, fully blindsided by the mesmerizing power that came with the capability of summoning a roaring firestorm on demand, could not help but believe her stories, compounded of course with the general mysticism surrounding our mother. That is, with the exception of her brother, Zeke, and another of our adoptive siblings, Vespera. Zeke was a skeptic in general, and was clearly hurt and jealous of the fact that Nora was the chosen daughter to carry this information from her mother. He eventually learned how to cast spells as well of course, but perhaps because of the two year gap in between them, was never quite as good as his sister.
+
+Vespera on the other hand, had quite a different reaction. Perhaps the most physically gifted amongst us, she scoffed at the idea that what she called "simple tricks" could be as effective of a tool as a sharp spear. She claimed true power comes from within, not from the gods. She will soon change her mind.
+
+Vespera left the commune about 30 or so years after Aylin's death. She came back to the commune angry, proclaiming that Nola's words were vacuous and untrue. She had also casted a spell. She casted this inky green and black flame from her arm, like a thick oil fire spreading from her fingers. Nola seemed unimpressed, and congratulated her on her new-found connection with the gods. Vespera answered saying she never believed in the gods, this wasn't their work. The argument that came afterwards became violent. Vespera lost, badly. Despite her physical prowess, it simply wasn't enough to compete with the variety of spells that Nola had developed. Vespera was banned from the commune for a century. 
+
+This event was pivotal in the origin of spells for two reasons. The first, is that it disproved the idea that spellcasters are only capable of doing so because of some immutable bloodline. The second is that this was the first time that aether was used as a tool in combat, as opposed to a tool for development. A lot of the spells that Nola had used up until this point cut trees, cleaned water, occasionally hunted beasts. Now the status quo had changed to be accepting of aether as a tool to police and oppress others.
+
+Another unintended consequence of this event was that I followed suit with Vespera and left of my own volition. I was no longer willing to participate in a commune that actively enforced lies and used said lies to repress truths of the world around us. I believe in the fundamental freedom of information and Nola's commune was not longer the place for me to do so. I followed Vespera on the way out. Vespera, who I normally knew as a jovial, annoying, confident and mildly arrogant sister was instead bitter, angry and vengeful. She clearly felt humiliated by the unprecedented defeat, and was determined to take her revenge on Nola. Me and Vespera entered a tenuous relationship, with the same objective. Understanding aether.
+
+### Aether
+
+In the following years, me and Vespera slowly came to understand aether through different trials and tribulations. It seemed as if the casting of spells was innate for her, and mostly came in moments of great emotional impact. The first spell she cast was supposedly when she was ambushed by a large lizard-like fire-breathing flying creature she remembered mother calling a dragon. For Vespera, the spells that came to her easiest were pyromantic spells. When asked about how casting a spell felt for her, she said: 
+
+> It's like tugging at a string that isn't there. You must imagine yourself as the weaver, then as the tugger of said string. Tugging and wrapping the thread in different ways makes it do different things. 
+
+In the process of trying to replicate the spell she seemed to be able to cast on demand in different forms, we've noticed that the transmutation of aether to a concrete spell was much easier when incorporating hand movements. This is in particular true because most spells seem to be easiest to cast from the fingertips. This enabled Vespera to concretely visualize the patterns of invisible threads and tug on them in a consistent, replicable manner. We dubbed this method of transmuting and casting spells weaving.
+
+I of course tried the same methods to cast spells, but at the time, it seems as if I were incapable of casting any spells. We came to an understanding that transmuting spells was by far the most difficult part. In one experiment, Vespera cast a little flame spell from her fingertip, which she passed onto my fingertip. I had no issue maintaining the spell on my finger tip, but was incapable of conjuring one of my own.
+
+The question remained, what is aether anyways? We had conjured a theory of aether in that time, understanding it as an invisible force present around some people that could be changed into different shapes. Specific shapes caused certain side-effects to occur, which we call spells. Some people have a natural trait that enables them to weave aether and transmute it into spells, others don't. This theory however was challenged relatively quickly. In the following decades, an interesting phenomenon started to occur, which both me and Vespera observed. The amount of people able to transmute aether started slowly increasing. We weren't sure whether this was due to the cultural spread of spells in general or because of some other phenomenon. The other thing we observed was that spells of divine origin started appearing. The stories of deities that our mother told us that neither of us believed started materializing in front of our eyes. We watched first hand as a farmhand with no experience transmuting spells and no understanding of aether whatsoever prayed to Sola and had rotting, fungi-infected crops return to a healthy state in mere seconds. We had to reconsider our theory to include this new phenomenon.
+
+We had no choice but to accept the existence of the gods, despite our skepticism, because of the evident presence of some otherworldly presence helping with the transmutation of these spells. Our current theory is that aether is an invisible, naturally present and universal force that can be manipulated into different effects. The mechanism by which aether can be transmuted is two fold. One is mechanical, active, immediate, and difficult. This is weaving. The other is passive, lengthy, and more accessible. This is what we dub myth.
+
+### Myth
+
+The myth is the natural conclusion of our observations. The belief that the gods are real had an actual impact on the cosmology of Vostera, and we know this because as different cultures emerged across Vostera, all of their beliefs came true, to some extent or another. 
+
+For example, the majority elven population that settled in southern Taldatrica believed that aether was imbued into everything around them, including non-living creatures. And this indeed been measurably established, as individuals susceptible to aetheric fluctuations, or individuals capable of casting an aether-detecting spell can attest to. However, this is only true of the territories those elves inhabit. 
+
+It also seems as if those beliefs are generally aligned with the life span of those who support it. Some Kaanite tribes for example believed in spirits that fed off the land, who I can attest to first hand did exist. However, with the death of the Kaanites, it seems as if those spirits have also met their end, or at the very least have declined dramatically. 
+
+As such, myths such as the gods, spirits, or other cosmic entities are believed to be a manifestation of a slow and continuous process of aetheric exchange. Like a tax on aether, these individuals use a tiny part of their aetheric reserves to feed into a common idea. This idea, like a well, accumulates aether and if enough of it is accumulated, it can manifest, like an actual spell. Once manifested, these entities exist in the cosmos at an objective level, and depending on the amount of followers or believers and their devotion to their deity, have a differing level of power and influence on our world. Followers then use their connections to their deities, or otherworldly entities as a way of gaining something out of the exchange. This also enables people who are less capable of weaving aether, whether by lack of instruction or knowledge - to cast spells, as in the majority of cases the aether is already transmuted when cast from their fingertips. Whether this manifestation of aether is permanent or semi permanent like an enchantment, or fickle and impermanent like an aetheric flame is yet to be determined. 
+
+
+## Tales from Argoul's Cathedral
+
+- Dangerous place where it seems that people constantly disappear from 
+- Named after the discoverer
+- Contains the souls of the damned that Ma'at could not reach for some reason
+- In the face of the volcano, a complex set of tunnels and rooms seems to exist as the tomb of a long-dead king
+- No one has ever come back from it...
+- Legend has it that the soul of the king inhabits it, and infects anyone coming to the tomb with his greed
+- Travelers become so greedy they lose their way and fall into the lava...
+
+## Dragon biology 
+
+Establishes the basics of how dragons breathe fire
+
+## Encyclopedia of Beasts
+
+- A lengthy textbook about various kinds of beasts
+
+
+
+
+-> examples of different cultures emerging with their own deities
+
+-> when the cultures died so did their deities
+
+-> Maybe hint at some ways that this could be worked against?
+
+-> some explanation about how the belief of different cultures impacted the presence or absence of divinities
+
+-> Vespera kills Nola hinted here somewhere
+
+
+
+
+In the decades that came, Nola became quite the legend herself, often dubbed as the first spellcaster. With full social and political control over the small commune, she grew it to a very respectable 100 or so inhabitants before passing herself. She left her firstborn son, [[Kael Ashir]] in charge. He was also a spellcaster, though not nearly as powerful as Nola. The myth of the divine spellcaster was still the widely accepted theory of aether, and still is so nearly 500 years later. 
+
+
+Aether was the name given to the invisible energy that produced the spells in question. 
+
+It only took two years for her to expand from light, to fire, to lightless, invisible kinetic force. She explained the origin of aether and spells as a gift, due to her blood lineage to her mother. She was very adamant however about the potential dangers of it. Reactions were mixed. Some of my siblings revered her, and believed her every word and were in awe of her talents. I was always a bit more skeptical of mother's stories, and in turn of Nola's. Why would blood have anything to do with aether? I admittedly facetiously played towards her whims to learn more about the situation. As time went on, Nola had children of her own. The Commune grew to about 50, over half of them recently born children. As Nola grew old, she only became more powerful. She was very secretive still about the process of her practice, but I did manage to gain her trust, which I gleefully exploited to learn more about aether.
+
+She told me the blood thing was not exactly true, that others would soon learn to wield aether as well. Her mother had left her behind some kind of instructions, to grow the commune and to control the coming evolution of aether. I was to aid with this process. The goal was to control the spread of aether, and the spread of those capable of transmuting it. She talked about it with such disdain and ilk, like a pestilent illness, despite using it like a sword, pickaxe, shield and remedy all at once. She warned me with genuine concern that if we let aether escape the bounds of a certain upper class, Vostera as a whole would be done for. 

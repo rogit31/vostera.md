@@ -18,5 +18,17 @@ Nora was to create and lead an empire, that would control, subjugate, and keep s
 
 Now, here's the question mark, is what happened to those books, the books of genesis. Something happens, but I don't know what. The end result, is that there are now two competing factions that constitute two villains in this campaign. One of them is Vespera, who believes it is her duty to re-enact Aylin's wishes and needs to complete the Ashirian expansion so the academy can have full control over Vostera and curb the re-emergence of the weave as much as possible. The other is the order of the black sun, cultists of Aylin, who believe that the right solution is to start again and build and etheric bomb. What happened so that both parties know what's at stake. Also, keep in mind that the order of the black sun needs the last tome of the book containing the instructions on how to construct the etheric bomb in order to restart the world and complete their objective.
 
+### Children
+
+Aylin had 30 children total, two of them of her own blood. Their names are as follows:
+
+- Vespera Argent (elf)
+- Socha Adami (elf)
+- Uuno Staltwhite (dwarf)
+- Nora Ashir (human)
+- Zeke Ashir (human)
+- etc...
+
+
 ## Death
 128 AP

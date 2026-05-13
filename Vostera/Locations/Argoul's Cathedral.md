@@ -1,4 +1,4 @@
-
+3
 The Island of Argoul is the resting place of an ancient titanic civilization that never recovered after the titanic impact. As the people there died without a god, the lost souls were collected instead by a demon...
 
 

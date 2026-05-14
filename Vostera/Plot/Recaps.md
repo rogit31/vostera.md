@@ -1,5 +1,14 @@
+## May 12th
 
-## April 28th and March 5th
+You all started your day discovering some new information about the world that you lived in, through books. 
+
+- Ivy stole the little newspaper excerpt
+- Found out more about Roshan Hunfrid
+- [[Alexander Whitewater]] sailed them to the island
+- Met a spirit Kaan and, and his wife Tiffany who were enslaved by an Iffrit
+- Started dungeoning!
+
+## April 28th and May 5th
 
 A festive, fancy and celebratory gala was interrupted with the attempted murder of one of or both the king of Kyrenia [[Alas Kyren]] and politician of the [[Aegurian Confederation]], [[Elmer Oren]]. You promptly managed to stop the assassination, which seemed to in fact be a distraction for the staged kidnapping of [[Elandorr Kyren]], the young elven prince. You saved him from said kidnapping from a hobgoblin warlock, [[Varrox Biran]]. Varrox attempted to negotiate into his own survival using his at first willing then unwilling hostage the prince, before being killed by [[Hemlock]]. The prince admitted to staging the kidnapping to get away from a forced wedding, and plead for you to let him go. You convinced him to stay with her for the meantime and to play along, and that you would kidnap him in a significantly better staged kidnapping in a year. He accepted. 
 

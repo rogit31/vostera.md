@@ -82,3 +82,5 @@ Is easily findable, a potion of gaseous form, a greater healing potion and 200 g
 
 ## Boss Room
 ![[Pasted image 20260512184246.png]]
+
+![[borse.png]]

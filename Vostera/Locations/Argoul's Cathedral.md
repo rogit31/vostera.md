@@ -7,7 +7,7 @@ The Island of Argoul is the resting place of an ancient titanic civilization tha
 I think the reason why is because of the nature of aether. Aether is an energy that can manifest the imaginations of Vosterians. The old citizens of the island might have believed in a different cosmology that included demons and souls, which when there was the titanic collapse. resulted in thousands of lost souls.
 
 
-# Features
+# Level 1
 
 ## Volcano
 
@@ -84,3 +84,15 @@ Is easily findable, a potion of gaseous form, a greater healing potion and 200 g
 ![[Pasted image 20260512184246.png]]
 
 ![[borse.png]]
+
+
+# Level 2
+
+## Potential Rewards
+
+- Lifebond rings:
+	- A pair of rings that don't require attunement where they have a single time use where you can transfer a certain amount of hitpoints from one person to another.
+- Protector's (something)
+	- An item made for kite that makes so that everytime you negate a certain amount of damage for someone else, you heal that amount. 
+- An item that gives disadvantage to targets to being charmed against you 1/ day?
+- 

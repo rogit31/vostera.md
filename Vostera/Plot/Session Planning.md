@@ -1,8 +1,10 @@
 # Announcements
 
-- Acacia is now joining us
-- New rules: stealth rolls or whatever they're called
-- New session planning method
+- Session planning going well
+- Colby's shirt
+- The super mega warhammer or whatever does include max damage for superiority die as well
+
+
 # TODO
 
 - Finish the playlists, add theme songs for Vespera, the order, maybe some others.

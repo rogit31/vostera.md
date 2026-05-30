@@ -1,4 +1,4 @@
-3
+
 The Island of Argoul is the resting place of an ancient titanic civilization that never recovered after the titanic impact. As the people there died without a god, the lost souls were collected instead by a demon...
 
 
@@ -88,6 +88,8 @@ Is easily findable, a potion of gaseous form, a greater healing potion and 200 g
 
 # Level 2
 
+
+
 ## Potential Rewards
 
 - Lifebond rings:
@@ -95,4 +97,98 @@ Is easily findable, a potion of gaseous form, a greater healing potion and 200 g
 - Protector's (something)
 	- An item made for kite that makes so that everytime you negate a certain amount of damage for someone else, you heal that amount. 
 - An item that gives disadvantage to targets to being charmed against you 1/ day?
-- 
+
+## Entrance / Guardian
+
+The wall entrance to the second level is collapsed, behind it the sound of bones rattling is loud. 
+
+The wall can be circumvented, pushed through, or destroyed. 
+
+Damage threshold of 20, immune to everything but force and bludgeoning. 
+
+Behind it lays a hallway full of corpses that have been rotted to everything but bone. Dozens if not hundreds of skeletons lay still here. It seems that here is were most of the citizens of this island died before reaching their families crypts.
+
+A mouse scurries across and under the skeletons, rattling loudly. 
+
+Further down the hallway you see a circular entrance, similar to a vault.
+
+The heavy stone there seems closed in this position, but has since degraded and someone has frayed a passage here before. 
+
+The wall depicts ... _(gives the sequencing and context of the puzzle)_
+
+Entering the room beyond it  _(triggers the guardian fight)_
+
+## Puzzle
+
+The puzzle is a sigil sequencing puzzle, where players must draw a sequence of sigils in the correct order to unlock a door. 
+
+Drawing the wrong sigil makes _(bad thing happen)_. 
+
+The correct order of sigils is interpreted from the art on the entrance of the second floor.
+
+The sigils themselves are self contained in the rooms of the four families that build this island, representing the amount of work and dedication that was taken by these four different families to construct it all. 
+
+## Hoshgali Family
+
+The Hoshgali family is the first of the important families to install themselves onto the island. They were farmers. 
+
+The room contains rows and rows of crypts. Each of them has the long-decomposed and tried out corpses of dozens of Hoshgalies. In the middle row however, a row of trees grows. Seemingly without any light, the trees are alive and well. This blackened, red and burgundy wood has several trees. They seem to be at different stages of life however, with the most recent sarcophagus being next to the youngest tree, barely blooming. The oldest tree seems to be on the verge of death. There is a tree with some fruit to pluck, eating it restores 1d4 hit points. Planting either a branch or a fruit from the tree in the blank space next to an empty sarcophagus reveals the family crest/sigil, as the tree at the very end dies, falls apart and the stump reveals it.
+
+## The Murz Family
+
+The Murz family is second. They were blacksmiths.
+
+Similar setup as the Hoshgali family, however the middle is a river of lava. There is also an anvil, a hammer, a small furnace over the river of lava with some charcoal, and an enchanted pot that seems to be constantly blowing wind out of the bottom of it. 
+
+The players must smith a new object of their choosing. Striking hot steel with the hammer on the anvil will mark it with the Murz family crest/sigil.
+
+## The Agfal Family
+
+The Agfal family was third. They were warriors.
+
+The room is setup in a similar manner, laid out with weapons, armor, shields and tunics along the walls. 
+
+In the center of the room there is a statue of a child hugging a toy puppet. The floor around it is obviously trapped.
+
+Taking the damage and shielding the child from damage reveals the afgal family's sigil.
+
+
+## The Geshalts family
+
+The Geshalts family was last. They were arcanists and scribes. The trick is to either write or add a piece of writing to the library. Doing so will pop a book out of the library that contains the sigil.
+
+Taking a random book out will invariably trigger a trap. 
+
+
+
+## Trick or Setback
+
+### The floor is collapsed and is just lava? 
+ 
+
+## Climax
+
+### [[Nirahan The Starving]]
+
+
+## Reward and Twist
+
+
+
+## Puzzle
+- The puzzle is to complete a series of challenges that grand specific rewards
+- Then to connect the dots to a story that is being presented
+- And order the items in the right order/geometry
+
+## Boss
+
+
+# Level 3
+
+- Main Character of this dungeon
+- The reason why parties never return
+
+## [[Lalach The Tempting]]
+
+He starts manifesting at the second level, tempting the players to take things for themselves. 
+At his core, he barters for souls and aether. His goal is to get more of it. He believes if he collects enough worthy/strong souls, he may have the aether necessary to escape his fate. He temps the people that make it to the last level, convinces them to sacrifice each other and barter their fellow souls, and then kills them all and takes all their souls forcefully.

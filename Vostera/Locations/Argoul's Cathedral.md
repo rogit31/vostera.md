@@ -88,15 +88,13 @@ Is easily findable, a potion of gaseous form, a greater healing potion and 200 g
 
 # Level 2
 
-
+![[level2.jpg]]
 
 ## Potential Rewards
 
 - Lifebond rings:
 	- A pair of rings that don't require attunement where they have a single time use where you can transfer a certain amount of hitpoints from one person to another.
-- Protector's (something)
-	- An item made for kite that makes so that everytime you negate a certain amount of damage for someone else, you heal that amount. 
-- An item that gives disadvantage to targets to being charmed against you 1/ day?
+
 
 ## Entrance / Guardian
 
@@ -112,37 +110,52 @@ A mouse scurries across and under the skeletons, rattling loudly.
 
 Further down the hallway you see a circular entrance, similar to a vault.
 
+Approaching this pile of bones causes it to reanimate. They reanimate indefinitely until the spawner is destroyed.
+
+The spawner is protected by a 
+
+![[blue dracolich.png]]
+
+The skeletons are represented by a 
+![[horde_sekeleton.png]]
+
+
 The heavy stone there seems closed in this position, but has since degraded and someone has frayed a passage here before. 
 
-The wall depicts ... _(gives the sequencing and context of the puzzle)_
 
 Entering the room beyond it  _(triggers the guardian fight)_
 
-## Puzzle
+## Puzzle - The family quadrant
+
+![[puzzle_argoul.jpg|838]]
 
 The puzzle is a sigil sequencing puzzle, where players must draw a sequence of sigils in the correct order to unlock a door. 
 
-Drawing the wrong sigil makes _(bad thing happen)_. 
+In front of the puzzle is an Iron sitting down back against the wall, blocking the entrance. He seems inactive. Drawing the wrong sigil or attempting to force the entrance open causes the Iron Golem to activate. 
+
+Drawing the wrong sigil makes triggers the Iron Golem, which returns to rest once the players have left the area.
+
+![[iron golem.png]]
 
 The correct order of sigils is interpreted from the art on the entrance of the second floor.
 
 The sigils themselves are self contained in the rooms of the four families that build this island, representing the amount of work and dedication that was taken by these four different families to construct it all. 
 
-## Hoshgali Family
+### Hoshgali Family
 
 The Hoshgali family is the first of the important families to install themselves onto the island. They were farmers. 
 
-The room contains rows and rows of crypts. Each of them has the long-decomposed and tried out corpses of dozens of Hoshgalies. In the middle row however, a row of trees grows. Seemingly without any light, the trees are alive and well. This blackened, red and burgundy wood has several trees. They seem to be at different stages of life however, with the most recent sarcophagus being next to the youngest tree, barely blooming. The oldest tree seems to be on the verge of death. There is a tree with some fruit to pluck, eating it restores 1d4 hit points. Planting either a branch or a fruit from the tree in the blank space next to an empty sarcophagus reveals the family crest/sigil, as the tree at the very end dies, falls apart and the stump reveals it.
+The room contains rows and rows of crypts. Each of them has the long-decomposed and tried out corpses of dozens of Hoshgalies. In the middle row however, a row of trees grows. Seemingly without any light, the trees are alive and well. This blackened, red and burgundy wood has several trees. They seem to be at different stages of life however, with the most recent sarcophagus being next to the youngest tree, barely blooming. The oldest tree seems to be on the verge of death. There is a tree with some fruit to pluck, eating it restores 1d4 hit points. Planting either a branch or a fruit from the tree in the blank space next to an empty sarcophagus reveals the family crest/sigil, as the tree at the very end dies, falls apart and the stump reveals it. Doing so increases your wisdom by +1, permanently, as well as the ability to speak with plants.
 
-## The Murz Family
+### The Murz Family
 
 The Murz family is second. They were blacksmiths.
 
 Similar setup as the Hoshgali family, however the middle is a river of lava. There is also an anvil, a hammer, a small furnace over the river of lava with some charcoal, and an enchanted pot that seems to be constantly blowing wind out of the bottom of it. 
 
-The players must smith a new object of their choosing. Striking hot steel with the hammer on the anvil will mark it with the Murz family crest/sigil.
+The players must smith a new object of their choosing. Striking hot steel with the hammer on the anvil will mark it with the Murz family crest/sigil. Doing so will grant the forger proficiency with metallurgy, and upgrade their weapon by a permanent +1. 
 
-## The Agfal Family
+### The Agfal Family
 
 The Agfal family was third. They were warriors.
 
@@ -150,37 +163,52 @@ The room is setup in a similar manner, laid out with weapons, armor, shields and
 
 In the center of the room there is a statue of a child hugging a toy puppet. The floor around it is obviously trapped.
 
-Taking the damage and shielding the child from damage reveals the afgal family's sigil.
+Taking the damage and shielding the child from damage reveals the afgal family's sigil. Doing so grants you with heroic inspiration, and resistance to fear, permanently.
 
 
-## The Geshalts family
+### The Geshalts family
 
 The Geshalts family was last. They were arcanists and scribes. The trick is to either write or add a piece of writing to the library. Doing so will pop a book out of the library that contains the sigil.
 
 Taking a random book out will invariably trigger a trap. 
 
+The trap is a mind-twisting trap at the ceiling that does 4D10 psychic damage through an INT save.
 
+Completing this puzzle will grant the completionist a permanent +1 to intelligence.
 
-## Trick or Setback
+## Cleansing Pool
 
-### The floor is collapsed and is just lava? 
+The cleansing pool is a peaceful pool of yummy looking water. By it a skeleton seems to be thinking. It cannot speak. 
+Bathing oneself in the pool grants resistance to fire and necrotic damage for an hour, but vulnerability to thunder damage. Drinking it heals 2D10 hit points and cleanses status effects immediately. It can be drank as a bonus action.
  
-
 ## Climax
 
 ### [[Nirahan The Starving]]
 
-
+![[Nirahan The Starving]]
 ## Reward and Twist
 
+The forge is waiting to be awakened..
+
+### King's Cache
 
 
-## Puzzle
-- The puzzle is to complete a series of challenges that grand specific rewards
-- Then to connect the dots to a story that is being presented
-- And order the items in the right order/geometry
+- Protector's Gloves
+	- An item made for kite that makes so that everytime you negate a certain amount of damage for someone else, you heal that amount. 
+- Bound Bowties
+	- Swap places
+- Amulet of devotion
 
-## Boss
+### King and Queen's Tomb
+
+The king's tomb contains: 
+- oddly not that much money, it has been reached and pillaged before
+- However some rings and other small jewlery remain, of up to 100 golds worth
+- and two magical rings: 
+	- the lifebond rings
+
+
+
 
 
 # Level 3

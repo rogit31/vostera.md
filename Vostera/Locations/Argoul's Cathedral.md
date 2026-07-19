@@ -116,7 +116,7 @@ The spawner is protected by a
 
 ![[blue dracolich.png]]
 
-The skeletons are represented by a 
+The skeletons are represented by a                             
 ![[horde_sekeleton.png]]
 
 
@@ -206,8 +206,6 @@ The king's tomb contains:
 - However some rings and other small jewlery remain, of up to 100 golds worth
 - and two magical rings: 
 	- the lifebond rings
-
-
 
 
 

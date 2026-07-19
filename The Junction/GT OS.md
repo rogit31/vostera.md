@@ -47,10 +47,6 @@ First lady of fairy. Exemplary mage. Does not have a poisition to the grand cour
 
 
 
-
-
-
-
 ## Scenes
 
 ### White-out
@@ -82,3 +78,30 @@ Go one by one describing them accepting a letter
 
 
 
+
+# 5 room dgeon
+
+## Guardian
+
+![[Pasted image 20260608161751.png]]
+
+3x ![[Pasted image 20260608161953.png]]
+
+
+## Puzzle
+
+Satyr Theron poses them a riddle. 
+
+What goes up but can never come down?
+What has hands but can never clap?
+What gets wetter as it dries?
+
+Theron wants 
+
+
+## Hag and President Nixon
+
+![[Pasted image 20260608162221.png]]
+
+![[Pasted image 20260608162427.png]]
+![[Pasted image 20260608162614.png]]

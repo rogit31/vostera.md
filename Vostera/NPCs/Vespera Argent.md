@@ -1,4 +1,4 @@
- Vespera is [[The Planewalker]]'s daughter, full elf and the [[Ashir Empire]]'s elected consul. Sister of [[Zeke Ashir]],  [[Nola Ashir]], and [[Uuno Stalwhite]].
+** Vespera is [[The Planewalker]]'s daughter, full elf and the [[Ashir Empire]]'s elected consul. Sister of [[Zeke Ashir]],  [[Nola Ashir]], and [[Uuno Stalwhite]].
 
 ## Roles and titles
 ---
@@ -66,7 +66,7 @@ layout: Basic 5e Layout
 size: medium
 cr: 22
 ac: 21
-hp: 400
+hp: 320
 speed: 40
 stats: [18, 16, 18, 22, 24, 22]
 
@@ -89,7 +89,7 @@ traits:
     desc: Vespera is the greatest spellcaster alive, and is exempt from VSM components, can cast and learn any spell she witnesses, and can cast multiple spells per turn.
     attack_bonus: 0
   - name: Legendary Resistance (3/Ever)
-    desc: If Vespera fails a saving throw, she can choose to succeed instead. When she does, her deduplicate takes the blow for her and the spell being cast is interrupted.
+    desc: If Vespera fails a saving throw, she can choose to succeed instead. When she does, her simulacrum takes the blow for her and the spell being cast is interrupted.
     attack_bonus: 0
 actions:
   - name: Arcane Javelin

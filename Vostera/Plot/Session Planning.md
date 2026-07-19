@@ -1,13 +1,23 @@
 # Announcements
 
-- Session planning going well
-- Colby's shirt
-- The super mega warhammer or whatever does include max damage for superiority die as well
+- Akmon 
+- Devour Soul
+- Belt of Dwarvenkind
+- Trident
 
 
 # TODO
 
 - Finish the playlists, add theme songs for Vespera, the order, maybe some others.
+- Combat encounter for Vespera, finish her statblock
+- Make statblock for giant snake
+- And for the duplicate or whatever
+- Maybe have the fight happen in titanfall
+- And have the tripal titan deactivate a really powerful magical effect that would otherwise wipe them?
+- Think of a reason to have the final fight in titanfall
+- Make sergo's armor
+- Change aria's gift to let upcast and combine the battle horn
+- Bitey's armor
 
 # Story beats
 

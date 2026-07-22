@@ -57,6 +57,9 @@ Nola laid on the straw bed,  beads of sweat and tears now streaming down her fac
 But where had she gotten such a knife? So small and reflective, as if it were made of one of the silver trinkets she showed us and said were gifts from the gods. 
 
 
+![[vespera argent.png]]
+
+
 
 
 ```statblock

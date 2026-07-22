@@ -1,0 +1,1 @@
+![[lalach, the temptation.png]]

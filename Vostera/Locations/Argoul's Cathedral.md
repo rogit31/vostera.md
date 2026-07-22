@@ -214,7 +214,7 @@ The king's tomb contains:
 - Main Character of this dungeon
 - The reason why parties never return
 
-## [[Lalach The Tempting]]
+## [[Lalach The Temptation]]
 
 He starts manifesting at the second level, tempting the players to take things for themselves. 
 At his core, he barters for souls and aether. His goal is to get more of it. He believes if he collects enough worthy/strong souls, he may have the aether necessary to escape his fate. He temps the people that make it to the last level, convinces them to sacrifice each other and barter their fellow souls, and then kills them all and takes all their souls forcefully.

@@ -1,5 +1,21 @@
 # Announcements
 
+- Talk about the potential outcomes of the campaign
+
+
+- Letter from Ivy's mom
+- Discussion with magnus
+- Hemlock's mom
+- discussion about what to do when/if survive
+
+- Titanfall powers the teleporters
+- 
+
+- Tom the tomerpillar
+- They want to bring back aylin to distractvespera
+- and are also considering splitting the party
+- new plane 'ivyland'
+
 - Akmon 
 - Devour Soul
 - Belt of Dwarvenkind

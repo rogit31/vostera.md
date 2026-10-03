@@ -1,18 +1,15 @@
-# Announcements
+## Scenes
 
-- Talk about the potential outcomes of the campaign
-
-
-- Letter from Ivy's mom
-- Discussion with magnus
-- Hemlock's mom
-- discussion about what to do when/if survive
+### Hemlock's mom
+### Ivy's family
+### Meeting Aylin
+- She could have a trapped sigil in her room
+- She casts symbol, with the wisdom save vs stun effect
+- Aylin is bound with anti magic cuffs and 
 
 - Titanfall powers the teleporters
-- 
-
 - Tom the tomerpillar
-- They want to bring back aylin to distractvespera
+- They want to bring back aylin to distract vespera
 - and are also considering splitting the party
 - new plane 'ivyland'
 
@@ -20,6 +17,26 @@
 - Devour Soul
 - Belt of Dwarvenkind
 - Trident
+bush and eleanor
+### Current plans
+
+Mila's priests start a revolt in Avendor
+They go to the planewalker
+Vespera would 100% have her duplicate in the open and have her real self be concealed in the crowd
+
+### Scene ideas
+
+- They meet the planewalker
+- The reveal of titanfall
+- The planewalker discussion (what does she stand for? Does she still believe in plan A?)
+- Does vespera fall for the bait and split up?
+- Uuno will potentially move or inhabit Aylin's body
+- Break into titanfall and lift the tarp
+- Toothfull behir
+- Max is recruited
+- Behir prison break they promised him some wings
+- Ivy's parents come
+- Bunch of potions added
 
 
 # TODO
@@ -31,9 +48,11 @@
 - Maybe have the fight happen in titanfall
 - And have the tripal titan deactivate a really powerful magical effect that would otherwise wipe them?
 - Think of a reason to have the final fight in titanfall
-- Make sergo's armor
-- Change aria's gift to let upcast and combine the battle horn
-- Bitey's armor
+
+
+- Make sergo's armor TODO anti aether vest combined with armor
+- Change aria's gift to let upcast and combine the battle horn TODO
+- Anti aether vest
 
 # Story beats
 
